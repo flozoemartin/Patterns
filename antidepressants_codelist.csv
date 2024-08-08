@@ -1,0 +1,935 @@
+prodcode,strength,therapyevents,substancestrength,routeofadministration,bnfheader,formulation,bnfchapter,drugsubstance,productname,route,class
+27876,,,,,,,unknown,,amitriptyline,,3
+873,,,,,,,unknown,,amitriptyline 100 mg tab,,3
+79401,,,,,,,tricyclic and related antidepressants/neuropathic pain/prophylaxis of migraine,,amitriptyline 100mg/5ml oral solution,,3
+13496,,,,,,,unknown,,amitriptyline 200 mg tab,,3
+23497,,,,,,,unknown,,amitriptyline 300 mg tab,,3
+3771,,,,,,,unknown,,amitriptyline 75 mg tab,,3
+30738,,,,,,,unknown,,amitriptyline s/f,,3
+8250,,,,,,,unknown,,amitriptyline s/f 25 mg/5ml syr,,3
+20712,,,,,,,unknown,,amitriptyline s/r,,3
+7475,,,,,,,unknown,,amoxapine 25 mg tab,,3
+3195,,,,,,,unknown,,clomipramine 25 mg tab,,3
+79276,,,,,,,tricyclic and related antidepressants,,clomipramine 25mg capsules (mylan),,3
+25036,,,,,,,unknown,,clomipramine hydrochloride,,3
+22872,,,,,,,unknown,,doxepin hcl,,3
+79275,,,,,,,other antidepressants/treatment of diabetic nephropathy and neuropathy,,duloxetine 30mg gastro-resistant capsules (aspire pharma ltd),,2
+79506,,,,,,,selective serotonin re-uptake inhibitors (ssri),,fluoxetine 20mg capsules (bristol laboratories ltd),,1
+79494,,,,,,,selective serotonin re-uptake inhibitors (ssri),,fluoxetine 60mg capsules (a a h pharmaceuticals ltd),,1
+3668,,,,,,,unknown,,imipramine 100 mg tab,,3
+7573,,,,,,,unknown,,imipramine 25 mg cap,,3
+7784,,,,,,,unknown,,imipramine 50 mg tab,,3
+10649,,,,,,,unknown,,imipramine 75 mg tab,,3
+3353,,,,,,,unknown,,l-tryptophan 500 mg cap,,7
+25070,,,,,,,unknown,,lofepramine,,3
+20379,,,,,,,unknown,,maprotiline hcl 75 mg tab,,3
+31168,,,,,,,unknown,,mirtazapine,,7
+79008,,,,,,,other antidepressants,,mirtazapine 30mg orodispersible tablets (teva uk ltd),,7
+79252,,,,,,,other antidepressants,,mirtazapine 45mg orodispersible tablets (alliance healthcare (distribution) ltd),,7
+12194,,,,,,,unknown,,nortriptyline 10 mg eli,,3
+4149,,,,,,,unknown,,protriptyline hcl 10 mg tab,,3
+79163,,,,,,,selective serotonin re-uptake inhibitors (ssri),,sertraline 50mg tablets (kent pharmaceuticals ltd),,1
+81245,,,,,,,tricyclic and related antidepressants,,trazodone 100mg tablets,,7
+81210,,,,,,,tricyclic and related antidepressants,,trazodone 50mg tablets,,7
+25045,,,,,,,unknown,,trimipramine,,3
+25085,,,,,,,unknown,,trimipramine,,3
+2533,,,,,,,unknown,,trimipramine 50 mg tab,,3
+40494,25mg,12131,25mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,agomelatine,agomelatine 25mg tablets,oral,7
+40295,25mg,1546,25mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,agomelatine,valdoxan 25mg tablets (servier laboratories ltd),oral,7
+34916,10mg,6,10mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,tablet,tricyclic and related antidepressant drugs/neuropathic pain,amitriptyline hydrochloride,amitriptyline 10mg tablet (berk pharmaceuticals ltd),oral,3
+45242,10mg,1,10mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,tablet,tricyclic and related antidepressant drugs/neuropathic pain,amitriptyline hydrochloride,amitriptyline 10mg tablet (sussex pharmaceutical ltd),oral,3
+83,10mg,5954330,10mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 10mg tablets,oral,3
+33090,10mg,5839,10mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 10mg tablets (a a h pharmaceuticals ltd),oral,3
+52867,10mg,4,10mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 10mg tablets (accord healthcare ltd),oral,3
+24141,10mg,249,10mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 10mg tablets (actavis uk ltd),oral,3
+57972,10mg,0,10mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 10mg tablets (alliance healthcare (distribution) ltd),oral,3
+55491,10mg,7,10mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 10mg tablets (almus pharmaceuticals ltd),oral,3
+70991,10mg,,,,,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 10mg tablets (arrow generics ltd),oral,3
+61835,10mg,0,10mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 10mg tablets (de pharmaceuticals),oral,3
+76839,10mg,,,,,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 10mg tablets (genesis pharmaceuticals ltd),oral,3
+45233,10mg,1,10mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,amitriptyline hydrochloride,amitriptyline 10mg tablets (ivax pharmaceuticals uk ltd),oral,3
+34731,10mg,17,10mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 10mg tablets (kent pharmaceuticals ltd),oral,3
+66578,10mg,0,10mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 10mg tablets (mawdsley-brooks & company ltd),oral,3
+83079,10mg,,,,,tablet,tricyclic and related antidepressants/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 10mg tablets (medihealth (northern) ltd),oral,3
+80135,10mg,,,,,tablet,tricyclic and related antidepressants/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 10mg tablets (northstar healthcare unlimited company),oral,3
+57107,10mg,0,10mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 10mg tablets (phoenix healthcare distribution ltd),oral,3
+65879,10mg,0,10mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 10mg tablets (sigma pharmaceuticals plc),oral,3
+24152,10mg,15476,10mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 10mg tablets (teva uk ltd),oral,3
+59161,10mg,0,10mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 10mg tablets (waymade healthcare plc),oral,3
+34401,10mg,56,10mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 10mg tablets (wockhardt uk ltd),oral,3
+46801,2mg/1ml,220,2mg/1ml,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,oral solution,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 10mg/5ml oral solution,oral,3
+22070,10mg/5ml,160,10mg/5ml,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,oral solution,tricyclic and related antidepressant drugs/neuropathic pain,amitriptyline hydrochloride,amitriptyline 10mg/5ml oral solution (rosemont pharmaceuticals ltd),oral,3
+64000,2mg/1ml,349,,,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,oral solution,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 10mg/5ml oral solution sugar free,oral,3
+79826,2mg/1ml,,,,,oral solution,tricyclic and related antidepressants/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 10mg/5ml oral solution sugar free (a a h pharmaceuticals ltd),oral,3
+70300,2mg/1ml,,,,,oral solution,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 10mg/5ml oral solution sugar free (alliance healthcare (distribution) ltd),oral,3
+77229,2mg/1ml,,,,,oral solution,unknown,amitriptyline hydrochloride,amitriptyline 10mg/5ml oral solution sugar free (rosemont pharmaceuticals ltd),oral,3
+76298,2mg/1ml,,,,,oral solution,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 10mg/5ml oral solution sugar free (wockhardt uk ltd),oral,3
+46818,2mg/1ml,21,2mg/1ml,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,oral suspension,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 10mg/5ml oral suspension,oral,3
+3777,10mg/5ml,21621,10mg/5ml,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,oral solution sugar-free,tricyclic and related antidepressant drugs/neuropathic pain,amitriptyline hydrochloride,amitriptyline 10mg/5ml sugar free oral solution,oral,3
+76927,500microgram/1ml,,,,,oral solution,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 2.5mg/5ml oral solution,oral,3
+487,25mg,,,,,modified-release capsule,unknown,amitriptyline hydrochloride,amitriptyline 25mg modified-release capsules,oral,3
+34197,25mg,36,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,tablet,tricyclic and related antidepressant drugs/neuropathic pain,amitriptyline hydrochloride,amitriptyline 25mg tablet (berk pharmaceuticals ltd),oral,3
+41729,25mg,12,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,tablet,tricyclic and related antidepressant drugs/neuropathic pain,amitriptyline hydrochloride,amitriptyline 25mg tablet (celltech pharma europe ltd),oral,3
+42394,25mg,2,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,tablet,tricyclic and related antidepressant drugs/neuropathic pain,amitriptyline hydrochloride,amitriptyline 25mg tablet (crosspharma ltd),oral,3
+34474,25mg,1,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,tablet,tricyclic and related antidepressant drugs/neuropathic pain,amitriptyline hydrochloride,amitriptyline 25mg tablet (regent laboratories ltd),oral,3
+32439,25mg,3,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,tablet,tricyclic and related antidepressant drugs/neuropathic pain,amitriptyline hydrochloride,amitriptyline 25mg tablet (sussex pharmaceutical ltd),oral,3
+49,25mg,4802253,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 25mg tablets,oral,3
+34782,25mg,3516,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 25mg tablets (a a h pharmaceuticals ltd),oral,3
+54877,25mg,0,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 25mg tablets (accord healthcare ltd),oral,3
+24145,25mg,2362,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 25mg tablets (actavis uk ltd),oral,3
+55139,25mg,0,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 25mg tablets (alliance healthcare (distribution) ltd),oral,3
+42078,25mg,605,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 25mg tablets (almus pharmaceuticals ltd),oral,3
+71042,25mg,,,,,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 25mg tablets (arrow generics ltd),oral,3
+65987,25mg,0,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 25mg tablets (crescent pharma ltd),oral,3
+64647,25mg,0,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 25mg tablets (de pharmaceuticals),oral,3
+79766,25mg,,,,,tablet,tricyclic and related antidepressants/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 25mg tablets (genesis pharmaceuticals ltd),oral,3
+34503,25mg,109,25mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,amitriptyline hydrochloride,amitriptyline 25mg tablets (ivax pharmaceuticals uk ltd),oral,3
+24134,25mg,3,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 25mg tablets (kent pharmaceuticals ltd),oral,3
+66579,25mg,0,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 25mg tablets (mawdsley-brooks & company ltd),oral,3
+60355,25mg,0,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 25mg tablets (phoenix healthcare distribution ltd),oral,3
+77167,25mg,,,,,tablet,tricyclic and related antidepressant drugs,amitriptyline hydrochloride,amitriptyline 25mg tablets (ranbaxy (uk) ltd),oral,3
+65439,25mg,1,25mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,amitriptyline hydrochloride,amitriptyline 25mg tablets (sandoz ltd),oral,3
+66572,25mg,0,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 25mg tablets (sigma pharmaceuticals plc),oral,3
+24147,25mg,12372,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 25mg tablets (teva uk ltd),oral,3
+34129,25mg,4,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 25mg tablets (wockhardt uk ltd),oral,3
+6312,5mg/1ml,32663,5mg/1ml,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,oral solution,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 25mg/5ml oral solution sugar free,oral,3
+83377,5mg/1ml,,,,,oral solution,tricyclic and related antidepressants/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 25mg/5ml oral solution sugar free (accord healthcare ltd),oral,3
+78364,5mg/1ml,,,,,oral solution,tricyclic and related antidepressants/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 25mg/5ml oral solution sugar free (alliance healthcare (distribution) ltd),oral,3
+67127,5mg/1ml,0,5mg/1ml,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,oral solution,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 25mg/5ml oral solution sugar free (de pharmaceuticals),oral,3
+34224,5mg/1ml,129,5mg/1ml,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,oral solution,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 25mg/5ml oral solution sugar free (rosemont pharmaceuticals ltd),oral,3
+60410,5mg/1ml,0,5mg/1ml,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,oral solution,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 25mg/5ml oral solution sugar free (wockhardt uk ltd),oral,3
+83516,5mg/1ml,,,,,oral suspension,tricyclic and related antidepressants/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 25mg/5ml oral suspension,oral,3
+4682,50mg,,,,,modified-release capsule,unknown,amitriptyline hydrochloride,amitriptyline 50mg modified-release capsules,oral,3
+40396,50mg,15,50mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,tablet,tricyclic and related antidepressant drugs/neuropathic pain,amitriptyline hydrochloride,amitriptyline 50mg tablet (berk pharmaceuticals ltd),oral,3
+1888,50mg,2417709,50mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 50mg tablets,oral,3
+34274,50mg,2019,50mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 50mg tablets (a a h pharmaceuticals ltd),oral,3
+34634,50mg,41,50mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 50mg tablets (actavis uk ltd),oral,3
+64330,50mg,0,50mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 50mg tablets (almus pharmaceuticals ltd),oral,3
+82403,50mg,,,,,tablet,tricyclic and related antidepressants/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 50mg tablets (arrow generics ltd),oral,3
+78221,50mg,,,,,tablet,tricyclic and related antidepressants/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 50mg tablets (de pharmaceuticals),oral,3
+46970,50mg,4,50mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,amitriptyline hydrochloride,amitriptyline 50mg tablets (ivax pharmaceuticals uk ltd),oral,3
+34182,50mg,305,50mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 50mg tablets (kent pharmaceuticals ltd),oral,3
+69712,50mg,,,,,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 50mg tablets (sigma pharmaceuticals plc),oral,3
+33624,50mg,3689,50mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 50mg tablets (teva uk ltd),oral,3
+34107,50mg,4,50mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,tablet,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 50mg tablets (wockhardt uk ltd),oral,3
+4690,10mg/1ml,13176,10mg/1ml,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,oral solution,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 50mg/5ml oral solution sugar free,oral,3
+34251,10mg/1ml,34,10mg/1ml,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,oral solution,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 50mg/5ml oral solution sugar free (rosemont pharmaceuticals ltd),oral,3
+59820,10mg/1ml,3,10mg/1ml,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,oral solution,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 50mg/5ml oral solution sugar free (wockhardt uk ltd),oral,3
+64141,1mg/1ml,1,1mg/1ml,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain/Prophylaxis Of Migraine,oral solution,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 5mg/5ml oral solution,oral,3
+76952,1mg/1ml,,,,,oral suspension,tricyclic and related antidepressant drugs/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 5mg/5ml oral suspension,oral,3
+2525,75mg,27759,75mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,modified release capsules,tricyclic and related antidepressant drugs/neuropathic pain,amitriptyline hydrochloride,amitriptyline 75mg modified-release capsules,oral,3
+77497,15mg/1ml,,,,,oral solution,tricyclic and related antidepressants/neuropathic pain/prophylaxis of migraine,amitriptyline hydrochloride,amitriptyline 75mg/5ml oral solution,oral,3
+48065,,0,,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,oral liquid,tricyclic and related antidepressant drugs/neuropathic pain,amitriptyline hydrochloride,amitriptyline oral solution,oral,3
+26213,10mg,3202,10mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,tablet,tricyclic and related antidepressant drugs/neuropathic pain,amitriptyline hydrochloride,domical 10mg tablet (berk pharmaceuticals ltd),oral,3
+20026,25mg,5720,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,tablet,tricyclic and related antidepressant drugs/neuropathic pain,amitriptyline hydrochloride,domical 25mg tablet (berk pharmaceuticals ltd),oral,3
+27008,50mg,1241,50mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,tablet,tricyclic and related antidepressant drugs/neuropathic pain,amitriptyline hydrochloride,domical 50mg tablet (berk pharmaceuticals ltd),oral,3
+24680,10mg,1,10mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,tablet,tricyclic and related antidepressant drugs/neuropathic pain,amitriptyline hydrochloride,elavil 10mg tablet (ddsa pharmaceuticals ltd),oral,3
+2486,25mg,,,,,modified-release capsule,unknown,amitriptyline hydrochloride,lentizol 25mg modified-release capsules (pfizer ltd),oral,3
+2985,50mg,,,,,modified-release capsule,unknown,amitriptyline hydrochloride,lentizol 50mg modified-release capsules (pfizer ltd),oral,3
+8726,10mg,21407,10mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,tablet,tricyclic and related antidepressant drugs/neuropathic pain,amitriptyline hydrochloride,tryptizol 10mg tablet (merck sharp & dohme ltd),oral,3
+8878,10mg/5ml,4216,10mg/5ml,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,oral solution,tricyclic and related antidepressant drugs/neuropathic pain,amitriptyline hydrochloride,tryptizol 10mg/5ml sugar free oral solution (merck sharp and dohme ltd),oral,3
+7751,25mg,76257,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,tablet,tricyclic and related antidepressant drugs/neuropathic pain,amitriptyline hydrochloride,tryptizol 25mg tablet (merck sharp & dohme ltd),oral,3
+8332,50mg,16425,50mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,tablet,tricyclic and related antidepressant drugs/neuropathic pain,amitriptyline hydrochloride,tryptizol 50mg tablet (merck sharp & dohme ltd),oral,3
+8831,75mg,8321,75mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,modified-release capsule,tricyclic and related antidepressant drugs/neuropathic pain,amitriptyline hydrochloride,tryptizol mr 75mg modified-release capsule (merck sharp & dohme ltd),oral,3
+3652,100mg,1171,100mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,amoxapine,amoxapine 100mg tablets,oral,3
+4411,150mg,412,150mg,Oral,Tricyclic And Related Antidepressant Drugs,tablets,tricyclic and related antidepressant drugs,amoxapine,amoxapine 150mg tablets,oral,3
+17319,25mg,382,25mg,Oral,Tricyclic And Related Antidepressant Drugs,tablets,tricyclic and related antidepressant drugs,amoxapine,amoxapine 25mg tablets,oral,3
+3351,50mg,,,,,tablet,unknown,amoxapine,amoxapine 50mg tablets,oral,3
+21357,100mg,102,100mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,amoxapine,asendis 100mg tablet (wyeth pharmaceuticals),oral,3
+24723,150mg,88,150mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,amoxapine,asendis 150mg tablet (wyeth pharmaceuticals),oral,3
+15380,25mg,676,25mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,amoxapine,asendis 25mg tablet (wyeth pharmaceuticals),oral,3
+14398,50mg,821,50mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,amoxapine,asendis 50mg tablet (wyeth pharmaceuticals),oral,3
+55289,50mg,,,,,tablet,unknown,amoxapine,asendis 50mg tablets (mercury pharma group ltd),oral,3
+12227,25mg,150,25mg,Oral,Tricyclic And Related Antidepressant Drugs,tablets,tricyclic and related antidepressant drugs,butriptyline hydrochloride,butriptyline 25mg tablets,oral,3
+32457,50mg,9,50mg,Oral,Tricyclic And Related Antidepressant Drugs,tablets,tricyclic and related antidepressant drugs,butriptyline hydrochloride,butriptyline 50mg tablets,oral,3
+18932,25mg,210,25mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,butriptyline hydrochloride,evadyne 25mg tablet (wyeth pharmaceuticals),oral,3
+3861,10mg,92011,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,cipramil 10mg tablets (lundbeck ltd),oral,1
+79784,10mg,,,,,tablet,selective serotonin re-uptake inhibitors (ssri),citalopram hydrobromide,cipramil 10mg tablets (waymade healthcare plc),oral,1
+63953,20mg,0,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,cipramil 20mg tablets (de pharmaceuticals),oral,1
+1712,20mg,263580,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,cipramil 20mg tablets (lundbeck ltd),oral,1
+2408,40mg,36501,40mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,cipramil 40mg tablets (lundbeck ltd),oral,1
+34498,10mg,37,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 10mg tablet (neo laboratories ltd),oral,1
+476,10mg,3896428,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 10mg tablets,oral,1
+34586,10mg,23,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 10mg tablets (a a h pharmaceuticals ltd),oral,1
+64423,10mg,0,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 10mg tablets (accord healthcare ltd),oral,1
+32848,10mg,1,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 10mg tablets (actavis uk ltd),oral,1
+49165,10mg,4,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 10mg tablets (alliance healthcare (distribution) ltd),oral,1
+42660,10mg,6,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 10mg tablets (almus pharmaceuticals ltd),oral,1
+52100,10mg,0,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 10mg tablets (arrow generics ltd),oral,1
+59650,10mg,0,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 10mg tablets (aurobindo pharma ltd),oral,1
+53787,10mg,0,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 10mg tablets (bristol laboratories ltd),oral,1
+71005,10mg,,,,,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 10mg tablets (de pharmaceuticals),oral,1
+33720,10mg,1,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 10mg tablets (ivax pharmaceuticals uk ltd),oral,1
+52408,10mg,0,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 10mg tablets (kent pharmaceuticals ltd),oral,1
+34436,10mg,23,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 10mg tablets (mylan),oral,1
+45286,10mg,1,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 10mg tablets (niche generics ltd),oral,1
+75697,10mg,,,,,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 10mg tablets (phoenix healthcare distribution ltd),oral,1
+52824,10mg,1,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 10mg tablets (pliva pharma ltd),oral,1
+59193,10mg,0,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 10mg tablets (ranbaxy (uk) ltd),oral,1
+63441,10mg,0,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 10mg tablets (rivopharm (uk) ltd),oral,1
+34499,10mg,181,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 10mg tablets (sandoz ltd),oral,1
+60888,10mg,0,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 10mg tablets (sigma pharmaceuticals plc),oral,1
+41528,10mg,5,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 10mg tablets (teva uk ltd),oral,1
+80370,10mg,,,,,tablet,selective serotonin re-uptake inhibitors (ssri),citalopram hydrobromide,citalopram 10mg tablets (tillomed laboratories ltd),oral,1
+56355,10mg,0,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 10mg tablets (waymade healthcare plc),oral,1
+34413,10mg,34,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 10mg tablets (zentiva),oral,1
+54827,2mg/1ml,6,2mg/1ml,Oral,Selective Serotonin Re-uptake Inhibitors,oral suspension,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 10mg/5ml oral suspension,oral,1
+34722,20mg,59,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 20mg tablet (neo laboratories ltd),oral,1
+67,20mg,8600644,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 20mg tablets,oral,1
+34356,20mg,600,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 20mg tablets (a a h pharmaceuticals ltd),oral,1
+67097,20mg,0,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 20mg tablets (accord healthcare ltd),oral,1
+34871,20mg,12,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 20mg tablets (actavis uk ltd),oral,1
+53394,20mg,0,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 20mg tablets (alliance healthcare (distribution) ltd),oral,1
+48026,20mg,1,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 20mg tablets (almus pharmaceuticals ltd),oral,1
+56009,20mg,0,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 20mg tablets (arrow generics ltd),oral,1
+58476,20mg,0,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 20mg tablets (aurobindo pharma ltd),oral,1
+52607,20mg,0,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 20mg tablets (bristol laboratories ltd),oral,1
+52354,20mg,0,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 20mg tablets (de pharmaceuticals),oral,1
+34415,20mg,105,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 20mg tablets (mylan),oral,1
+34970,20mg,18,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 20mg tablets (niche generics ltd),oral,1
+81067,20mg,,,,,tablet,selective serotonin re-uptake inhibitors (ssri),citalopram hydrobromide,citalopram 20mg tablets (noumed life sciences ltd),oral,1
+73417,20mg,,,,,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 20mg tablets (pliva pharma ltd),oral,1
+72373,20mg,,,,,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 20mg tablets (ranbaxy (uk) ltd),oral,1
+26016,20mg,445,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 20mg tablets (sandoz ltd),oral,1
+82670,20mg,,,,,tablet,selective serotonin re-uptake inhibitors (ssri),citalopram hydrobromide,citalopram 20mg tablets (sovereign medical ltd),oral,1
+34966,20mg,35,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 20mg tablets (teva uk ltd),oral,1
+60568,20mg,0,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 20mg tablets (waymade healthcare plc),oral,1
+34822,20mg,20,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 20mg tablets (zentiva),oral,1
+71848,4mg/1ml,,,,,oral suspension,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 20mg/5ml oral suspension,oral,1
+74753,,,,,,,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 30mg tablets,,1
+43519,40mg,25,40mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 40mg tablet (neo laboratories ltd),oral,1
+4770,40mg,2085936,40mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 40mg tablets,oral,1
+36746,40mg,19,40mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 40mg tablets (a a h pharmaceuticals ltd),oral,1
+69571,40mg,,,,,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 40mg tablets (accord healthcare ltd),oral,1
+46977,40mg,5,40mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 40mg tablets (actavis uk ltd),oral,1
+75075,40mg,,,,,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 40mg tablets (alliance healthcare (distribution) ltd),oral,1
+60839,40mg,18,40mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 40mg tablets (almus pharmaceuticals ltd),oral,1
+70790,40mg,,,,,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 40mg tablets (aurobindo pharma ltd),oral,1
+55033,40mg,0,40mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 40mg tablets (de pharmaceuticals),oral,1
+75702,40mg,,,,,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 40mg tablets (kent pharmaceuticals ltd),oral,1
+83078,40mg,,,,,tablet,selective serotonin re-uptake inhibitors (ssri),citalopram hydrobromide,citalopram 40mg tablets (medreich plc),oral,1
+34603,40mg,29,40mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 40mg tablets (mylan),oral,1
+45223,40mg,1,40mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 40mg tablets (niche generics ltd),oral,1
+34466,40mg,120,40mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 40mg tablets (sandoz ltd),oral,1
+45304,40mg,14,40mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 40mg tablets (teva uk ltd),oral,1
+46926,40mg,16,40mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,citalopram 40mg tablets (zentiva),oral,1
+32546,10mg,1,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,paxoran 10mg tablet (ranbaxy (uk) ltd),oral,1
+29756,20mg,1,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,citalopram hydrobromide,paxoran 20mg tablet (ranbaxy (uk) ltd),oral,1
+815,40mg/1ml,4721,40mg/1ml,Oral,Selective Serotonin Re-uptake Inhibitors,oral drops,selective serotonin re-uptake inhibitors,citalopram hydrochloride,cipramil 40mg/ml drops (lundbeck ltd),oral,1
+513,40mg/1ml,76399,40mg/1ml,Oral,Selective Serotonin Re-uptake Inhibitors,oral drops,selective serotonin re-uptake inhibitors,citalopram hydrochloride,citalopram 40mg/ml oral drops sugar free,oral,1
+57936,40mg/1ml,2,40mg/1ml,Oral,Selective Serotonin Re-uptake Inhibitors,oral drops,selective serotonin re-uptake inhibitors,citalopram hydrochloride,citalopram 40mg/ml oral drops sugar free (a a h pharmaceuticals ltd),oral,1
+56292,40mg/1ml,0,40mg/1ml,Oral,Selective Serotonin Re-uptake Inhibitors,oral drops,selective serotonin re-uptake inhibitors,citalopram hydrochloride,citalopram 40mg/ml oral drops sugar free (actavis uk ltd),oral,1
+72124,40mg/1ml,,,,,oral drops,selective serotonin re-uptake inhibitors,citalopram hydrochloride,citalopram 40mg/ml oral drops sugar free (teva uk ltd),oral,1
+7515,10mg,66594,10mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,clomipramine hydrochloride,anafranil 10mg capsules (novartis pharmaceuticals uk ltd),oral,3
+3657,25mg,94808,25mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,clomipramine hydrochloride,anafranil 25mg capsules (novartis pharmaceuticals uk ltd),oral,3
+8719,5mg/1ml,1764,5mg/1ml,Oral,Tricyclic And Related Antidepressant Drugs,oral solution,tricyclic and related antidepressant drugs,clomipramine hydrochloride,anafranil 25mg/5ml syrup (novartis pharmaceuticals uk ltd),oral,3
+7693,50mg,28546,50mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,clomipramine hydrochloride,anafranil 50mg capsules (novartis pharmaceuticals uk ltd),oral,3
+7894,75mg,20238,75mg,Oral,Tricyclic And Related Antidepressant Drugs,modified-release tablet,tricyclic and related antidepressant drugs,clomipramine hydrochloride,anafranil sr 75mg tablets (novartis pharmaceuticals uk ltd),oral,3
+3194,10mg,203623,10mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,clomipramine hydrochloride,clomipramine 10mg capsules,oral,3
+34866,10mg,47,10mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,clomipramine hydrochloride,clomipramine 10mg capsules (a a h pharmaceuticals ltd),oral,3
+83468,10mg,,,,,capsule,unknown,clomipramine hydrochloride,clomipramine 10mg capsules (almus pharmaceuticals ltd),oral,3
+68665,10mg,0,10mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,clomipramine hydrochloride,clomipramine 10mg capsules (almus pharmaceuticals ltd),oral,3
+41628,10mg,23,10mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,clomipramine hydrochloride,clomipramine 10mg capsules (ivax pharmaceuticals uk ltd),oral,3
+62620,10mg,14,10mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,clomipramine hydrochloride,clomipramine 10mg capsules (mylan),oral,3
+43561,10mg,2,10mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,clomipramine hydrochloride,clomipramine 10mg capsules (teva uk ltd),oral,3
+3670,25mg,289791,25mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,clomipramine hydrochloride,clomipramine 25mg capsules,oral,3
+34245,25mg,9,25mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,clomipramine hydrochloride,clomipramine 25mg capsules (a a h pharmaceuticals ltd),oral,3
+81617,25mg,,,,,capsule,tricyclic and related antidepressants,clomipramine hydrochloride,clomipramine 25mg capsules (actavis uk ltd),oral,3
+83470,25mg,,,,,capsule,unknown,clomipramine hydrochloride,clomipramine 25mg capsules (almus pharmaceuticals ltd),oral,3
+41563,25mg,39,25mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,clomipramine hydrochloride,clomipramine 25mg capsules (ivax pharmaceuticals uk ltd),oral,3
+45350,25mg,2,25mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,clomipramine hydrochloride,clomipramine 25mg capsules (teva uk ltd),oral,3
+65762,25mg,0,25mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,clomipramine hydrochloride,clomipramine 25mg capsules (waymade healthcare plc),oral,3
+8720,5mg/1ml,2668,5mg/1ml,Oral,Tricyclic And Related Antidepressant Drugs,oral solution,tricyclic and related antidepressant drugs,clomipramine hydrochloride,clomipramine 25mg/5ml oral solution,oral,3
+64458,5mg/1ml,1,5mg/1ml,Oral,Tricyclic And Related Antidepressant Drugs,oral suspension,tricyclic and related antidepressant drugs,clomipramine hydrochloride,clomipramine 25mg/5ml oral suspension,oral,3
+3925,50mg,272989,50mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,clomipramine hydrochloride,clomipramine 50mg capsules,oral,3
+45318,50mg,20,50mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,clomipramine hydrochloride,clomipramine 50mg capsules (a a h pharmaceuticals ltd),oral,3
+41597,50mg,65,50mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,clomipramine hydrochloride,clomipramine 50mg capsules (ivax pharmaceuticals uk ltd),oral,3
+53187,50mg,25,50mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,clomipramine hydrochloride,clomipramine 50mg capsules (kent pharmaceuticals ltd),oral,3
+78324,50mg,,,,,capsule,tricyclic and related antidepressants,clomipramine hydrochloride,clomipramine 50mg capsules (mylan),oral,3
+65804,50mg,0,50mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,clomipramine hydrochloride,clomipramine 50mg capsules (teva uk ltd),oral,3
+77227,50mg,,,,,capsule,tricyclic and related antidepressant drugs,clomipramine hydrochloride,clomipramine 50mg capsules (waymade healthcare plc),oral,3
+53161,10mg/1ml,54,10mg/1ml,Oral,Tricyclic And Related Antidepressant Drugs,oral solution,tricyclic and related antidepressant drugs,clomipramine hydrochloride,clomipramine 50mg/5ml oral solution,oral,3
+38274,10mg/1ml,322,10mg/1ml,Oral,Tricyclic And Related Antidepressant Drugs,oral suspension,tricyclic and related antidepressant drugs,clomipramine hydrochloride,clomipramine 50mg/5ml oral suspension,oral,3
+78057,1mg/1ml,,,,,oral solution,tricyclic and related antidepressants,clomipramine hydrochloride,clomipramine 5mg/5ml oral solution,oral,3
+8661,75mg,60317,75mg,Oral,Tricyclic And Related Antidepressant Drugs,modified-release tablet,tricyclic and related antidepressant drugs,clomipramine hydrochloride,clomipramine 75mg modified-release tablets,oral,3
+7981,25mg,2513,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,tablets,tricyclic and related antidepressant drugs/neuropathic pain,desipramine,desipramine 25mg tablets,oral,3
+7979,25mg,805,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,tablet,tricyclic and related antidepressant drugs/neuropathic pain,desipramine,pertofran 25mg tablet (novartis pharmaceuticals uk ltd),oral,3
+43024,20mg/1ml,6,20mg/1ml,Oral,Tricyclic And Related Antidepressant Drugs,oral solution,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dosulepin 100mg/5ml oral solution,oral,3
+77130,2mg/1ml,,,,,oral solution,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dosulepin 10mg/5ml oral solution,oral,3
+70838,25mg,,,,,capsule,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dosulepin 25mg capsule (celltech pharma europe ltd),oral,3
+84,25mg,2185730,25mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dosulepin 25mg capsules,oral,3
+23426,25mg,1119,25mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dosulepin 25mg capsules (a a h pharmaceuticals ltd),oral,3
+34745,25mg,242,25mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dosulepin 25mg capsules (actavis uk ltd),oral,3
+34643,25mg,52,25mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dosulepin 25mg capsules (almus pharmaceuticals ltd),oral,3
+31824,25mg,1153,25mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dosulepin 25mg capsules (ivax pharmaceuticals uk ltd),oral,3
+44853,25mg,68,25mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dosulepin 25mg capsules (kent pharmaceuticals ltd),oral,3
+29875,25mg,17,25mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dosulepin 25mg capsules (mylan),oral,3
+33164,25mg,2,25mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dosulepin 25mg capsules (sandoz ltd),oral,3
+34641,25mg,31,25mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dosulepin 25mg capsules (sovereign medical ltd),oral,3
+76317,25mg,,,,,capsule,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dosulepin 25mg capsules (strides pharma uk ltd),oral,3
+34223,25mg,967,25mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dosulepin 25mg capsules (teva uk ltd),oral,3
+19168,25mg/5ml,95,25mg/5ml,Oral,Tricyclic And Related Antidepressant Drugs,mixture,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dosulepin 25mg/5ml mixture,oral,3
+50722,5mg/1ml,33,5mg/1ml,Oral,Tricyclic And Related Antidepressant Drugs,oral solution,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dosulepin 25mg/5ml oral solution,oral,3
+45737,25mg/5ml,3,25mg/5ml,Oral,Tricyclic And Related Antidepressant Drugs,oral solution,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dosulepin 25mg/5ml oral solution (rosemont pharmaceuticals ltd),oral,3
+6054,25mg/5ml,3471,25mg/5ml,Oral,Tricyclic And Related Antidepressant Drugs,oral solution sugar-free,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dosulepin 25mg/5ml oral solution sugar free,oral,3
+71023,5mg/1ml,,,,,oral solution,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dosulepin 25mg/5ml oral solution sugar free (special order),oral,3
+70593,5mg/1ml,,,,,oral suspension,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dosulepin 25mg/5ml oral suspension,oral,3
+74,75mg,2368949,75mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dosulepin 75mg tablets,oral,3
+32121,75mg,1087,75mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dosulepin 75mg tablets (a a h pharmaceuticals ltd),oral,3
+19186,75mg,78,75mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dosulepin 75mg tablets (actavis uk ltd),oral,3
+67728,75mg,0,75mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dosulepin 75mg tablets (alliance healthcare (distribution) ltd),oral,3
+42734,75mg,11,75mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dosulepin 75mg tablets (almus pharmaceuticals ltd),oral,3
+81126,75mg,,,,,tablet,tricyclic and related antidepressants,dosulepin hydrochloride,dosulepin 75mg tablets (co-pharma ltd),oral,3
+31826,75mg,599,75mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dosulepin 75mg tablets (ivax pharmaceuticals uk ltd),oral,3
+34525,75mg,8,75mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dosulepin 75mg tablets (mylan),oral,3
+62681,75mg,19,75mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dosulepin 75mg tablets (sandoz ltd),oral,3
+71059,75mg,,,,,tablet,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dosulepin 75mg tablets (sovereign medical ltd),oral,3
+34058,75mg,1268,75mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dosulepin 75mg tablets (teva uk ltd),oral,3
+57926,15mg/1ml,28,15mg/1ml,Oral,Tricyclic And Related Antidepressant Drugs,oral solution,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dosulepin 75mg/5ml oral solution,oral,3
+10948,75mg/5ml,1849,75mg/5ml,Oral,Tricyclic And Related Antidepressant Drugs,oral solution sugar-free,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dosulepin 75mg/5ml oral solution sugar free,oral,3
+1940,25mg,7599,25mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dothapax 25 capsules (ashbourne pharmaceuticals ltd),oral,3
+15632,75mg,11760,75mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,dosulepin hydrochloride,dothapax 75 tablets (ashbourne pharmaceuticals ltd),oral,3
+21820,25mg,4557,25mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,dosulepin hydrochloride,prepadine 25mg capsules (teva uk ltd),oral,3
+21819,75mg,7120,75mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,dosulepin hydrochloride,prepadine 75mg tablets (teva uk ltd),oral,3
+67990,25mg,0,25mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,dosulepin hydrochloride,prothiaden 25mg capsules (sigma pharmaceuticals plc),oral,3
+51758,25mg,2,25mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,dosulepin hydrochloride,prothiaden 25mg capsules (stephar (u.k.) ltd),oral,3
+1169,25mg,443361,25mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,dosulepin hydrochloride,prothiaden 25mg capsules (teofarma),oral,3
+2320,75mg,491162,75mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,dosulepin hydrochloride,prothiaden 75mg tablets (teofarma),oral,3
+30376,25mg,2,25mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,dosulepin hydrochloride,thaden 25mg capsules (opus pharmaceuticals ltd),oral,3
+21157,75mg,1,75mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,dosulepin hydrochloride,thaden 75mg tablets (opus pharmaceuticals ltd),oral,3
+3842,10mg,39648,10mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,doxepin hydrochloride,doxepin 10mg capsules,oral,3
+3554,25mg,98060,25mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,doxepin hydrochloride,doxepin 25mg capsules,oral,3
+40777,25mg/5ml,16,25mg/5ml,Oral,Tricyclic And Related Antidepressant Drugs,oral suspension,tricyclic and related antidepressant drugs,doxepin hydrochloride,doxepin 25mg/5ml oral suspension,oral,3
+5073,50mg,49621,50mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,doxepin hydrochloride,doxepin 50mg capsules,oral,3
+73363,10mg/1ml,,,,,oral solution,tricyclic and related antidepressant drugs,doxepin hydrochloride,doxepin 50mg/5ml oral solution,oral,3
+81337,10mg/1ml,,,,,oral suspension,tricyclic and related antidepressants,doxepin hydrochloride,doxepin 50mg/5ml oral suspension,oral,3
+7059,75mg,20892,75mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,doxepin hydrochloride,doxepin 75mg capsules,oral,3
+35258,25mg,432,25mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,doxepin hydrochloride,sinepin 25mg capsules (marlborough pharmaceuticals ltd),oral,3
+35493,50mg,419,50mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,doxepin hydrochloride,sinepin 50mg capsules (marlborough pharmaceuticals ltd),oral,3
+10413,10mg,13843,10mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,doxepin hydrochloride,sinequan 10mg capsules (pfizer ltd),oral,3
+12129,25mg,23921,25mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,doxepin hydrochloride,sinequan 25mg capsules (pfizer ltd),oral,3
+12125,50mg,8301,50mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,doxepin hydrochloride,sinequan 50mg capsules (pfizer ltd),oral,3
+14519,75mg,3420,75mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,doxepin hydrochloride,sinequan 75mg capsules (pfizer ltd),oral,3
+13151,30mg,13157,30mg,Oral,Other Antidepressant Drugs/Treatment Of Diabetic Nephropathy And Neuropathy,gastro-resistant capsule,other antidepressant drugs/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,cymbalta 30mg gastro-resistant capsules (eli lilly and company ltd),oral,2
+82572,30mg,,,,,gastro-resistant capsule,other antidepressants/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,cymbalta 30mg gastro-resistant capsules (waymade healthcare plc),oral,2
+14849,60mg,28756,60mg,Oral,Other Antidepressant Drugs/Treatment Of Diabetic Nephropathy And Neuropathy,gastro-resistant capsule,other antidepressant drugs/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,cymbalta 60mg gastro-resistant capsules (eli lilly and company ltd),oral,2
+63216,60mg,0,60mg,Oral,Other Antidepressant Drugs/Treatment Of Diabetic Nephropathy And Neuropathy,gastro-resistant capsule,other antidepressant drugs/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,cymbalta 60mg gastro-resistant capsules (mawdsley-brooks & company ltd),oral,2
+82860,60mg,,,,,gastro-resistant capsule,other antidepressants/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,cymbalta 60mg gastro-resistant capsules (necessity supplies ltd),oral,2
+73298,30mg,,,,,gastro-resistant capsule,other antidepressant drugs/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,depalta 30mg gastro-resistant capsules (disposable medical equipment ltd),oral,2
+73540,60mg,,,,,gastro-resistant capsule,other antidepressant drugs/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,depalta 60mg gastro-resistant capsules (disposable medical equipment ltd),oral,2
+82903,30mg,,,,,gastro-resistant capsule,other antidepressants/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,duciltia 30mg gastro-resistant capsules (aristo pharma ltd),oral,2
+74190,60mg,,,,,gastro-resistant capsule,other antidepressant drugs/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,duciltia 60mg gastro-resistant capsules (aristo pharma ltd),oral,2
+7153,20mg,,,,,gastro-resistant capsule,urinary incontinence,duloxetine hydrochloride,duloxetine 20mg gastro-resistant capsules,oral,2
+70063,20mg,,,,,gastro-resistant capsule,urinary incontinence,duloxetine hydrochloride,duloxetine 20mg gastro-resistant capsules (a a h pharmaceuticals ltd),oral,2
+67564,20mg,,,,,gastro-resistant capsule,urinary incontinence,duloxetine hydrochloride,duloxetine 20mg gastro-resistant capsules (actavis uk ltd),oral,2
+65165,20mg,,,,,gastro-resistant capsule,urinary incontinence,duloxetine hydrochloride,duloxetine 20mg gastro-resistant capsules (de pharmaceuticals),oral,2
+82340,20mg,,,,,gastro-resistant capsule,urinary incontinence,duloxetine hydrochloride,duloxetine 20mg gastro-resistant capsules (waymade healthcare plc),oral,2
+71669,20mg,,,,,gastro-resistant capsule,urinary incontinence,duloxetine hydrochloride,duloxetine 20mg gastro-resistant capsules (zentiva),oral,2
+7122,30mg,262168,30mg,Oral,Other Antidepressant Drugs/Treatment Of Diabetic Nephropathy And Neuropathy,gastro-resistant capsule,other antidepressant drugs/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,duloxetine 30mg gastro-resistant capsules,oral,2
+65618,30mg,0,30mg,Oral,Other Antidepressant Drugs/Treatment Of Diabetic Nephropathy And Neuropathy,gastro-resistant capsule,other antidepressant drugs/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,duloxetine 30mg gastro-resistant capsules (a a h pharmaceuticals ltd),oral,2
+65809,30mg,0,30mg,Oral,Other Antidepressant Drugs/Treatment Of Diabetic Nephropathy And Neuropathy,gastro-resistant capsule,other antidepressant drugs/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,duloxetine 30mg gastro-resistant capsules (actavis uk ltd),oral,2
+70728,30mg,,,,,gastro-resistant capsule,other antidepressant drugs/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,duloxetine 30mg gastro-resistant capsules (alliance healthcare (distribution) ltd),oral,2
+80840,30mg,,,,,gastro-resistant capsule,other antidepressants/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,duloxetine 30mg gastro-resistant capsules (consilient health ltd),oral,2
+74907,30mg,,,,,gastro-resistant capsule,other antidepressant drugs/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,duloxetine 30mg gastro-resistant capsules (creo pharma ltd),oral,2
+66412,30mg,0,30mg,Oral,Other Antidepressant Drugs/Treatment Of Diabetic Nephropathy And Neuropathy,gastro-resistant capsule,other antidepressant drugs/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,duloxetine 30mg gastro-resistant capsules (de pharmaceuticals),oral,2
+79628,30mg,,,,,gastro-resistant capsule,other antidepressants/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,duloxetine 30mg gastro-resistant capsules (dr reddy's laboratories (uk) ltd),oral,2
+63370,30mg,0,30mg,Oral,Other Antidepressant Drugs/Treatment Of Diabetic Nephropathy And Neuropathy,gastro-resistant capsule,other antidepressant drugs/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,duloxetine 30mg gastro-resistant capsules (mawdsley-brooks & company ltd),oral,2
+62688,30mg,0,30mg,Oral,Other Antidepressant Drugs/Treatment Of Diabetic Nephropathy And Neuropathy,gastro-resistant capsule,other antidepressant drugs/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,duloxetine 30mg gastro-resistant capsules (sigma pharmaceuticals plc),oral,2
+70405,30mg,,,,,gastro-resistant capsule,other antidepressant drugs/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,duloxetine 30mg gastro-resistant capsules (teva uk ltd),oral,2
+82035,30mg,,,,,gastro-resistant capsule,other antidepressants/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,duloxetine 30mg gastro-resistant capsules (wockhardt uk ltd),oral,2
+81423,30mg,,,,,gastro-resistant capsule,other antidepressants/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,duloxetine 30mg gastro-resistant capsules (zentiva),oral,2
+76857,6mg/1ml,,,,,oral suspension,other antidepressant drugs/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,duloxetine 30mg/5ml oral suspension,oral,2
+7147,40mg,,,,,gastro-resistant capsule,urinary incontinence,duloxetine hydrochloride,duloxetine 40mg gastro-resistant capsules,oral,2
+79768,40mg,,,,,gastro-resistant capsule,urinary incontinence,duloxetine hydrochloride,duloxetine 40mg gastro-resistant capsules (actavis uk ltd),oral,2
+82430,40mg,,,,,gastro-resistant capsule,urinary incontinence,duloxetine hydrochloride,duloxetine 40mg gastro-resistant capsules (waymade healthcare plc),oral,2
+6895,60mg,656465,60mg,Oral,Other Antidepressant Drugs/Treatment Of Diabetic Nephropathy And Neuropathy,gastro-resistant capsule,other antidepressant drugs/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,duloxetine 60mg gastro-resistant capsules,oral,2
+63763,60mg,1,60mg,Oral,Other Antidepressant Drugs/Treatment Of Diabetic Nephropathy And Neuropathy/Urinary Incontinence,gastro-resistant capsule,other antidepressant drugs/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,duloxetine 60mg gastro-resistant capsules (a a h pharmaceuticals ltd),oral,2
+65888,60mg,0,60mg,Oral,Other Antidepressant Drugs/Treatment Of Diabetic Nephropathy And Neuropathy/Urinary Incontinence,gastro-resistant capsule,other antidepressant drugs/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,duloxetine 60mg gastro-resistant capsules (actavis uk ltd),oral,2
+69428,60mg,,,,,gastro-resistant capsule,other antidepressant drugs/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,duloxetine 60mg gastro-resistant capsules (alliance healthcare (distribution) ltd),oral,2
+73868,60mg,,,,,gastro-resistant capsule,other antidepressant drugs/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,duloxetine 60mg gastro-resistant capsules (aspire pharma ltd),oral,2
+69965,60mg,,,,,gastro-resistant capsule,other antidepressant drugs/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,duloxetine 60mg gastro-resistant capsules (consilient health ltd),oral,2
+69752,60mg,,,,,gastro-resistant capsule,other antidepressant drugs/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,duloxetine 60mg gastro-resistant capsules (creo pharma ltd),oral,2
+66405,60mg,0,60mg,Oral,Other Antidepressant Drugs/Treatment Of Diabetic Nephropathy And Neuropathy/Urinary Incontinence,gastro-resistant capsule,other antidepressant drugs/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,duloxetine 60mg gastro-resistant capsules (de pharmaceuticals),oral,2
+72211,60mg,,,,,gastro-resistant capsule,other antidepressant drugs/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,duloxetine 60mg gastro-resistant capsules (dr reddy's laboratories (uk) ltd),oral,2
+65892,60mg,0,60mg,Oral,Other Antidepressant Drugs/Treatment Of Diabetic Nephropathy And Neuropathy/Urinary Incontinence,gastro-resistant capsule,other antidepressant drugs/treatment of diabetic nephropathy and neuropathy/urinary incontinence,duloxetine hydrochloride,duloxetine 60mg gastro-resistant capsules (mawdsley-brooks & company ltd),oral,2
+51383,60mg,0,60mg,Oral,Other Antidepressant Drugs/Treatment Of Diabetic Nephropathy And Neuropathy,gastro-resistant capsule,other antidepressant drugs/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,duloxetine 60mg gastro-resistant capsules (sigma pharmaceuticals plc),oral,2
+64442,60mg,0,60mg,Oral,Other Antidepressant Drugs/Treatment Of Diabetic Nephropathy And Neuropathy/Urinary Incontinence,gastro-resistant capsule,other antidepressant drugs/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,duloxetine 60mg gastro-resistant capsules (teva uk ltd),oral,2
+78777,60mg,,,,,gastro-resistant capsule,other antidepressants/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,duloxetine 60mg gastro-resistant capsules (waymade healthcare plc),oral,2
+68096,60mg,0,60mg,Oral,Other Antidepressant Drugs/Treatment Of Diabetic Nephropathy And Neuropathy,gastro-resistant capsule,other antidepressant drugs/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,duloxetine 60mg gastro-resistant capsules (zentiva),oral,2
+74774,12mg/1ml,,,,,oral suspension,other antidepressant drugs/treatment of diabetic nephropathy and neuropathy,duloxetine hydrochloride,duloxetine 60mg/5ml oral suspension,oral,2
+16969,20mg,,,,,gastro-resistant capsule,urinary incontinence,duloxetine hydrochloride,yentreve 20mg gastro-resistant capsules (eli lilly and company ltd),oral,2
+14803,40mg,,,,,gastro-resistant capsule,urinary incontinence,duloxetine hydrochloride,yentreve 40mg gastro-resistant capsules (eli lilly and company ltd),oral,2
+74785,10mg,,,,,tablet,selective serotonin re-uptake inhibitors,escitalopram oxalate,cipralex 10mg tablets (de pharmaceuticals),oral,1
+648,10mg,112665,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,escitalopram oxalate,cipralex 10mg tablets (lundbeck ltd),oral,1
+83378,10mg,,,,,tablet,selective serotonin re-uptake inhibitors (ssri),escitalopram oxalate,cipralex 10mg tablets (necessity supplies ltd),oral,1
+74858,10mg,,,,,tablet,selective serotonin re-uptake inhibitors,escitalopram oxalate,cipralex 10mg tablets (waymade healthcare plc),oral,1
+26056,10mg/1ml,286,10mg/1ml,Oral,Selective Serotonin Re-uptake Inhibitors,oral drops,selective serotonin re-uptake inhibitors,escitalopram oxalate,cipralex 10mg/ml oral drops (lundbeck ltd),oral,1
+80820,20mg,,,,,tablet,selective serotonin re-uptake inhibitors (ssri),escitalopram oxalate,cipralex 20mg tablets (de pharmaceuticals),oral,1
+6360,20mg,37836,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,escitalopram oxalate,cipralex 20mg tablets (lundbeck ltd),oral,1
+80821,20mg,,,,,tablet,selective serotonin re-uptake inhibitors (ssri),escitalopram oxalate,cipralex 20mg tablets (mawdsley-brooks & company ltd),oral,1
+41062,20mg/1ml,110,20mg/ml,Oral,Selective Serotonin Re-uptake Inhibitors,oral drops,selective serotonin re-uptake inhibitors,escitalopram oxalate,cipralex 20mg/ml oral drops (lundbeck ltd),oral,1
+785,5mg,23713,5mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,escitalopram oxalate,cipralex 5mg tablets (lundbeck ltd),oral,1
+603,10mg,791882,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,escitalopram oxalate,escitalopram 10mg tablets,oral,1
+81987,10mg,,,,,tablet,selective serotonin re-uptake inhibitors (ssri),escitalopram oxalate,escitalopram 10mg tablets (accord healthcare ltd),oral,1
+63916,10mg,0,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,escitalopram oxalate,escitalopram 10mg tablets (actavis uk ltd),oral,1
+74993,10mg,,,,,tablet,selective serotonin re-uptake inhibitors,escitalopram oxalate,escitalopram 10mg tablets (brown & burk uk ltd),oral,1
+82346,10mg,,,,,tablet,selective serotonin re-uptake inhibitors (ssri),escitalopram oxalate,escitalopram 10mg tablets (sigma pharmaceuticals plc),oral,1
+20152,10mg/1ml,2191,10mg/1ml,Oral,Selective Serotonin Re-uptake Inhibitors,oral drops,selective serotonin re-uptake inhibitors,escitalopram oxalate,escitalopram 10mg/ml oral drops sugar free,oral,1
+6218,20mg,442684,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,escitalopram oxalate,escitalopram 20mg tablets,oral,1
+80453,20mg,,,,,tablet,selective serotonin re-uptake inhibitors (ssri),escitalopram oxalate,escitalopram 20mg tablets (a a h pharmaceuticals ltd),oral,1
+72773,20mg,,,,,tablet,selective serotonin re-uptake inhibitors,escitalopram oxalate,escitalopram 20mg tablets (teva uk ltd),oral,1
+40726,20mg/1ml,1654,20mg/ml,Oral,Selective Serotonin Re-uptake Inhibitors,oral drops,selective serotonin re-uptake inhibitors,escitalopram oxalate,escitalopram 20mg/ml oral drops sugar free,oral,1
+6405,5mg,245364,5mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,escitalopram oxalate,escitalopram 5mg tablets,oral,1
+33071,20mg,7,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,felicium 20mg capsules (opus pharmaceuticals ltd),oral,1
+67431,10mg,523,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 10mg capsules,oral,1
+69941,10mg,,,,,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 10mg capsules (a a h pharmaceuticals ltd),oral,1
+77881,10mg,,,,,capsule,selective serotonin re-uptake inhibitors (ssri),fluoxetine hydrochloride,fluoxetine 10mg capsules (medreich plc),oral,1
+42499,10mg,1923,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 10mg tablets,oral,1
+81906,10mg,,,,,tablet,selective serotonin re-uptake inhibitors (ssri),fluoxetine hydrochloride,fluoxetine 10mg tablets (endo ventures ltd),oral,1
+75645,500microgram/1ml,,,,,oral solution,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 2.5mg/5ml oral solution,oral,1
+38890,20mg,36,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg capsule (milpharm ltd),oral,1
+22,20mg,9350374,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg capsules,oral,1
+19183,20mg,1311,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg capsules (a a h pharmaceuticals ltd),oral,1
+71852,20mg,,,,,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg capsules (accord healthcare ltd),oral,1
+45329,20mg,8,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg capsules (actavis uk ltd),oral,1
+60962,20mg,0,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg capsules (alliance healthcare (distribution) ltd),oral,1
+75799,20mg,,,,,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg capsules (almus pharmaceuticals ltd),oral,1
+67736,20mg,0,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg capsules (dr reddy's laboratories (uk) ltd),oral,1
+45247,20mg,23,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg capsules (fannin uk ltd),oral,1
+75688,20mg,,,,,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg capsules (genesis pharmaceuticals ltd),oral,1
+34202,20mg,2,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg capsules (genus pharmaceuticals ltd),oral,1
+34294,20mg,651,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg capsules (ivax pharmaceuticals uk ltd),oral,1
+69525,20mg,,,,,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg capsules (medreich plc),oral,1
+59358,20mg,0,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg capsules (milpharm ltd),oral,1
+66744,20mg,0,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg capsules (morningside healthcare ltd),oral,1
+34288,20mg,99,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg capsules (mylan),oral,1
+42107,20mg,7,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg capsules (niche generics ltd),oral,1
+62155,20mg,0,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg capsules (phoenix healthcare distribution ltd),oral,1
+19470,20mg,13,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg capsules (ranbaxy (uk) ltd),oral,1
+45224,20mg,18,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg capsules (sandoz ltd),oral,1
+67769,20mg,0,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg capsules (strides shasun (uk) ltd),oral,1
+34456,20mg,79,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg capsules (teva uk ltd),oral,1
+34849,20mg,10,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg capsules (tillomed laboratories ltd),oral,1
+67092,20mg,0,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg capsules (waymade healthcare plc),oral,1
+45316,20mg,3,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg capsules (wockhardt uk ltd),oral,1
+33410,20mg,39,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg capsules (zentiva),oral,1
+60534,20mg,952,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,dispersible tablet,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg dispersible tablets sugar free,oral,1
+60138,20mg,17,,,Selective Serotonin Re-uptake Inhibitors,orodispersible tablet,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg orodispersible tablets sugar free,oral,1
+2548,4mg/1ml,137539,4mg/1ml,Oral,Selective Serotonin Re-uptake Inhibitors,oral solution,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg/5ml oral solution,oral,1
+34216,4mg/1ml,35,4mg/1ml,Oral,Selective Serotonin Re-uptake Inhibitors,oral solution,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg/5ml oral solution (a a h pharmaceuticals ltd),oral,1
+42803,4mg/1ml,1,4mg/1ml,Oral,Selective Serotonin Re-uptake Inhibitors,oral solution,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg/5ml oral solution (ivax pharmaceuticals uk ltd),oral,1
+60619,4mg/1ml,17,4mg/1ml,Oral,Selective Serotonin Re-uptake Inhibitors,oral solution,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg/5ml oral solution (kent pharmaceuticals ltd),oral,1
+73414,4mg/1ml,,,,,oral solution,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg/5ml oral solution (pinewood healthcare),oral,1
+30258,4mg/1ml,4,4mg/1ml,Oral,Selective Serotonin Re-uptake Inhibitors,oral solution,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg/5ml oral solution (teva uk ltd),oral,1
+36893,4mg/1ml,15140,4mg/1ml,Oral,Selective Serotonin Re-uptake Inhibitors,oral solution,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg/5ml oral solution sugar free,oral,1
+68266,4mg/1ml,2,4mg/1ml,Oral,Selective Serotonin Re-uptake Inhibitors,oral solution,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg/5ml oral solution sugar free (actavis uk ltd),oral,1
+69685,4mg/1ml,,,,,oral solution,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 20mg/5ml oral solution sugar free (morningside healthcare ltd),oral,1
+74886,400microgram/1ml,,,,,oral solution,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 2mg/5ml oral solution,oral,1
+67496,30mg,316,,,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 30mg capsules,oral,1
+79590,30mg,,,,,capsule,selective serotonin re-uptake inhibitors (ssri),fluoxetine hydrochloride,fluoxetine 30mg capsules (medreich plc),oral,1
+67562,40mg,898,40mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 40mg capsules,oral,1
+75068,40mg,,,,,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 40mg capsules (alliance healthcare (distribution) ltd),oral,1
+78889,40mg,,,,,capsule,selective serotonin re-uptake inhibitors (ssri),fluoxetine hydrochloride,fluoxetine 40mg capsules (medreich plc),oral,1
+4075,60mg,117914,60mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 60mg capsules,oral,1
+75247,60mg,,,,,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 60mg capsules (advanz pharma),oral,1
+67888,60mg,2,60mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 60mg capsules (kent pharmaceuticals ltd),oral,1
+34856,60mg,43,60mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,fluoxetine 60mg capsules (mylan),oral,1
+62335,20mg,80,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,dispersible tablet,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,olena 20mg dispersible tablets (amco),oral,1
+14740,20mg,34901,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,oxactin 20mg capsules (discovery pharmaceuticals),oral,1
+67758,20mg,0,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,prozac 20mg capsules (de pharmaceuticals),oral,1
+77381,20mg,,,,,capsule,selective serotonin re-uptake inhibitors (ssri),fluoxetine hydrochloride,prozac 20mg capsules (dowelhurst ltd),oral,1
+418,20mg,445680,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,prozac 20mg capsules (eli lilly and company ltd),oral,1
+48220,20mg,2710,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,prozac 20mg capsules (lexon (uk) ltd),oral,1
+61335,20mg,0,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,prozac 20mg capsules (mawdsley-brooks & company ltd),oral,1
+69542,20mg,,,,,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,prozac 20mg capsules (necessity supplies ltd),oral,1
+57532,20mg,207,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,prozac 20mg capsules (waymade healthcare plc),oral,1
+252,4mg/1ml,10406,4mg/1ml,Oral,Selective Serotonin Re-uptake Inhibitors,oral solution,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,prozac 20mg/5ml liquid (eli lilly and company ltd),oral,1
+80702,4mg/1ml,,,,,oral solution,selective serotonin re-uptake inhibitors (ssri),fluoxetine hydrochloride,prozac 20mg/5ml liquid (lexon (uk) ltd),oral,1
+75943,4mg/1ml,,,,,oral solution,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,prozac 20mg/5ml liquid (necessity supplies ltd),oral,1
+4907,60mg,2671,60mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,prozac 60mg capsules (eli lilly and company ltd),oral,1
+37256,4mg/1ml,236,4mg/1ml,Oral,Selective Serotonin Re-uptake Inhibitors,oral solution,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,prozep 20mg/5ml oral solution (chemidex pharma ltd),oral,1
+33779,4mg/1ml,72,4mg/1ml,Oral,Selective Serotonin Re-uptake Inhibitors,oral solution,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,prozit 20mg/5ml oral solution (pinewood healthcare),oral,1
+29786,20mg,148,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,capsule,selective serotonin re-uptake inhibitors,fluoxetine hydrochloride,ranflutin 20mg capsules (ranbaxy (uk) ltd),oral,1
+12123,100mg,6417,100mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,fluvoxamine maleate,faverin 100mg tablets (mylan),oral,1
+2897,50mg,15502,50mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,fluvoxamine maleate,faverin 50mg tablets (mylan),oral,1
+2290,100mg,32028,100mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,fluvoxamine maleate,fluvoxamine 100mg tablets,oral,1
+48045,100mg,0,100mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,fluvoxamine maleate,fluvoxamine 100mg tablets (a a h pharmaceuticals ltd),oral,1
+44861,100mg,2,100mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,fluvoxamine maleate,fluvoxamine 100mg tablets (actavis uk ltd),oral,1
+43518,100mg,5,100mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,fluvoxamine maleate,fluvoxamine 100mg tablets (ivax pharmaceuticals uk ltd),oral,1
+2880,50mg,46021,50mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,fluvoxamine maleate,fluvoxamine 50mg tablets,oral,1
+1310,10mg,108588,10mg,Oral,Tricyclic And Related Antidepressant Drugs/Nocturnal Enuresis,tablet,tricyclic and related antidepressant drugs/nocturnal enuresis,imipramine hydrochloride,imipramine 10mg tablets,oral,3
+41681,10mg,3,10mg,Oral,Tricyclic And Related Antidepressant Drugs/Nocturnal Enuresis,tablet,tricyclic and related antidepressant drugs/nocturnal enuresis,imipramine hydrochloride,imipramine 10mg tablets (a a h pharmaceuticals ltd),oral,3
+34222,10mg,113,10mg,Oral,Tricyclic And Related Antidepressant Drugs/Nocturnal Enuresis,tablet,tricyclic and related antidepressant drugs/nocturnal enuresis,imipramine hydrochloride,imipramine 10mg tablets (actavis uk ltd),oral,3
+67935,10mg,0,10mg,Oral,Tricyclic And Related Antidepressant Drugs/Nocturnal Enuresis,tablet,tricyclic and related antidepressant drugs/nocturnal enuresis,imipramine hydrochloride,imipramine 10mg tablets (almus pharmaceuticals ltd),oral,3
+71253,10mg,,,,,tablet,tricyclic and related antidepressant drugs/nocturnal enuresis,imipramine hydrochloride,imipramine 10mg tablets (de pharmaceuticals),oral,3
+70287,10mg,,,,,tablet,tricyclic and related antidepressant drugs/nocturnal enuresis,imipramine hydrochloride,imipramine 10mg tablets (sigma pharmaceuticals plc),oral,3
+32863,10mg,1,10mg,Oral,Tricyclic And Related Antidepressant Drugs/Nocturnal Enuresis,tablet,tricyclic and related antidepressant drugs/nocturnal enuresis,imipramine hydrochloride,imipramine 10mg tablets (teva uk ltd),oral,3
+34872,25mg,1,25mg,Oral,"Tricyclic And Related Antidepressant Drugs/Drugs For Urinary Frequency, Enuresis, And Incontinence",tablet,"tricyclic and related antidepressant drugs/drugs for urinary frequency, enuresis, and incontinence",imipramine hydrochloride,imipramine 25mg tablet (c p pharmaceuticals ltd),oral,3
+81638,25mg,,,,,tablet,"tricyclic and related antidepressants/drugs for urinary frequency, enuresis, and incontinence",imipramine hydrochloride,imipramine 25mg tablet (celltech pharma europe ltd),oral,3
+1809,25mg,460049,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Nocturnal Enuresis,tablet,tricyclic and related antidepressant drugs/nocturnal enuresis,imipramine hydrochloride,imipramine 25mg tablets,oral,3
+34813,25mg,44,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Nocturnal Enuresis,tablet,tricyclic and related antidepressant drugs/nocturnal enuresis,imipramine hydrochloride,imipramine 25mg tablets (a a h pharmaceuticals ltd),oral,3
+34355,25mg,168,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Nocturnal Enuresis,tablet,tricyclic and related antidepressant drugs/nocturnal enuresis,imipramine hydrochloride,imipramine 25mg tablets (actavis uk ltd),oral,3
+82911,25mg,,,,,tablet,tricyclic and related antidepressants/nocturnal enuresis,imipramine hydrochloride,imipramine 25mg tablets (alliance healthcare (distribution) ltd),oral,3
+83472,25mg,,,,,tablet,tricyclic and related antidepressants/nocturnal enuresis,imipramine hydrochloride,imipramine 25mg tablets (almus pharmaceuticals ltd),oral,3
+80885,25mg,,,,,tablet,tricyclic and related antidepressants/nocturnal enuresis,imipramine hydrochloride,imipramine 25mg tablets (kent pharmaceuticals ltd),oral,3
+41408,25mg,1,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Nocturnal Enuresis,tablet,tricyclic and related antidepressant drugs/nocturnal enuresis,imipramine hydrochloride,imipramine 25mg tablets (teva uk ltd),oral,3
+8055,5mg/1ml,,,,,oral solution,unknown,imipramine hydrochloride,imipramine 25mg/5ml oral solution,oral,3
+42247,5mg/1ml,456,5mg/1ml,Oral,Tricyclic And Related Antidepressant Drugs/Nocturnal Enuresis,oral solution,tricyclic and related antidepressant drugs/nocturnal enuresis,imipramine hydrochloride,imipramine 25mg/5ml oral solution sugar free,oral,3
+33074,10mg,1,10mg,Oral,"Tricyclic And Related Antidepressant Drugs/Drugs For Urinary Frequency, Enuresis, And Incontinence",tablet,"tricyclic and related antidepressant drugs/drugs for urinary frequency, enuresis, and incontinence",imipramine hydrochloride,praminil 10mg tablet (ddsa pharmaceuticals ltd),oral,3
+2579,10mg,3982,10mg,Oral,"Tricyclic And Related Antidepressant Drugs/Drugs For Urinary Frequency, Enuresis, And Incontinence",tablet,"tricyclic and related antidepressant drugs/drugs for urinary frequency, enuresis, and incontinence",imipramine hydrochloride,tofranil 10mg tablet (novartis pharmaceuticals uk ltd),oral,3
+56501,25mg,294,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Nocturnal Enuresis,tablet,tricyclic and related antidepressant drugs/nocturnal enuresis,imipramine hydrochloride,tofranil 25mg tablets (lexon (uk) ltd),oral,3
+7910,25mg,28489,25mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,imipramine hydrochloride,tofranil 25mg tablets (novartis pharmaceuticals uk ltd),oral,3
+4404,5mg/1ml,,,,,oral solution,unknown,imipramine hydrochloride,tofranil 25mg/5ml syrup (novartis pharmaceuticals uk ltd),oral,3
+27476,15mg,135,15mg,Oral,Tricyclic And Related Antidepressant Drugs,tablets,tricyclic and related antidepressant drugs,iprindole,iprindole hc 15mg,oral,3
+27733,30mg,2,30mg,Oral,Tricyclic And Related Antidepressant Drugs,tablets,tricyclic and related antidepressant drugs,iprindole,iprindole hc 30mg,oral,3
+24700,15mg,267,15mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,iprindole,prondol 15mg tablet (wyeth pharmaceuticals),oral,3
+31672,30mg,7,30mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,iprindole,prondol 30mg tablet (wyeth pharmaceuticals),oral,3
+25945,25mg,1,25mg,Oral,Monoamine-oxidase Inhibitors,tablets,monoamine-oxidase inhibitors,iproniazide,iproniazid 25mg,oral,4
+18290,25mg,13,25mg,Oral,Monoamine-oxidase Inhibitors,tablet,monoamine-oxidase inhibitors,iproniazide,marsilid 25mg tablet (roche products ltd),oral,4
+41731,10mg,29,10mg,Oral,Monoamine-oxidase Inhibitors,tablet,monoamine-oxidase inhibitors,isocarboxazid,isocarboxazid 10mg tablet (cambridge laboratories ltd),oral,4
+12207,10mg,8450,10mg,Oral,Monoamine-oxidase Inhibitors,tablet,monoamine-oxidase inhibitors,isocarboxazid,isocarboxazid 10mg tablets,oral,4
+12503,10mg,4568,10mg,Oral,Monoamine-oxidase Inhibitors,tablet,monoamine-oxidase inhibitors,isocarboxazid,marplan 10mg tablet (cambridge laboratories ltd),oral,4
+79397,,,,,,oral solution,tricyclic and related antidepressants,lofepramine,lofepramine oral solution,,3
+58450,70mg,52,70mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,lofepramine hydrochloride,feprapax 70mg tablets (ashbourne pharmaceuticals ltd),oral,3
+2093,70mg,136350,70mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,lofepramine hydrochloride,gamanil 70mg tablets (merck serono ltd),oral,3
+41627,70mg,14,70mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,lofepramine hydrochloride,lofepramine 70mg tablet (teva uk ltd),oral,3
+114,70mg,1213632,70mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,lofepramine hydrochloride,lofepramine 70mg tablets,oral,3
+34046,70mg,1290,70mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,lofepramine hydrochloride,lofepramine 70mg tablets (a a h pharmaceuticals ltd),oral,3
+34950,70mg,208,70mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,lofepramine hydrochloride,lofepramine 70mg tablets (accord healthcare ltd),oral,3
+74586,70mg,,,,,tablet,tricyclic and related antidepressant drugs,lofepramine hydrochloride,lofepramine 70mg tablets (almus pharmaceuticals ltd),oral,3
+71067,70mg,,,,,tablet,unknown,lofepramine hydrochloride,lofepramine 70mg tablets (almus pharmaceuticals ltd),oral,3
+66100,70mg,0,70mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,lofepramine hydrochloride,lofepramine 70mg tablets (de pharmaceuticals),oral,3
+34578,70mg,186,70mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,lofepramine hydrochloride,lofepramine 70mg tablets (ivax pharmaceuticals uk ltd),oral,3
+68657,70mg,0,70mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,lofepramine hydrochloride,lofepramine 70mg tablets (kent pharmaceuticals ltd),oral,3
+67742,70mg,0,70mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,lofepramine hydrochloride,lofepramine 70mg tablets (mylan),oral,3
+56703,70mg,18,70mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,lofepramine hydrochloride,lofepramine 70mg tablets (sandoz ltd),oral,3
+34672,70mg,5,70mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,lofepramine hydrochloride,lofepramine 70mg tablets (sterwin medicines),oral,3
+60591,70mg,34,70mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,lofepramine hydrochloride,lofepramine 70mg tablets (teva uk ltd),oral,3
+56229,14mg/1ml,4,14mg/1ml,Oral,Tricyclic And Related Antidepressant Drugs,oral solution,tricyclic and related antidepressant drugs,lofepramine hydrochloride,lofepramine 70mg/5ml oral solution,oral,3
+43534,14mg/1ml,11,14mg/1ml,Oral,Tricyclic And Related Antidepressant Drugs,oral suspension,tricyclic and related antidepressant drugs,lofepramine hydrochloride,lofepramine 70mg/5ml oral suspension (rosemont pharmaceuticals ltd),oral,3
+4218,14mg/1ml,10570,14mg/1ml,Oral,Tricyclic And Related Antidepressant Drugs,oral suspension,tricyclic and related antidepressant drugs,lofepramine hydrochloride,lofepramine 70mg/5ml oral suspension sugar free,oral,3
+77717,14mg/1ml,,,,,oral suspension,tricyclic and related antidepressants,lofepramine hydrochloride,lofepramine 70mg/5ml oral suspension sugar free (a a h pharmaceuticals ltd),oral,3
+25444,14mg/1ml,42,14mg/1ml,Oral,Tricyclic And Related Antidepressant Drugs,oral suspension,tricyclic and related antidepressant drugs,lofepramine hydrochloride,lomont 70mg/5ml oral suspension (rosemont pharmaceuticals ltd),oral,3
+12222,10mg,,,,,tablet,unknown,maprotiline hydrochloride,ludiomil 10mg tablets (novartis pharmaceuticals uk ltd),oral,3
+10645,25mg,,,,,tablet,unknown,maprotiline hydrochloride,ludiomil 25mg tablets (novartis pharmaceuticals uk ltd),oral,3
+14410,50mg,,,,,tablet,unknown,maprotiline hydrochloride,ludiomil 50mg tablets (novartis pharmaceuticals uk ltd),oral,3
+13558,75mg,,,,,tablet,unknown,maprotiline hydrochloride,ludiomil 75mg tablets (novartis pharmaceuticals uk ltd),oral,3
+16727,10mg,,,,,tablet,unknown,maprotiline hydrochloride,maprotiline 10mg tablets,oral,3
+8549,25mg,,,,,tablet,unknown,maprotiline hydrochloride,maprotiline 25mg tablets,oral,3
+12100,50mg,,,,,tablet,unknown,maprotiline hydrochloride,maprotiline 50mg tablets,oral,3
+20405,75mg,,,,,tablet,unknown,maprotiline hydrochloride,maprotiline 75mg tablets,oral,3
+7468,10mg,6161,10mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,mianserin hydrochloride,bolvidon 10mg tablet (organon laboratories ltd),oral,7
+8144,20mg,2497,20mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,mianserin hydrochloride,bolvidon 20mg tablet (organon laboratories ltd),oral,7
+8585,30mg,6762,30mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,mianserin hydrochloride,bolvidon 30mg tablet (organon laboratories ltd),oral,7
+3083,10mg,43635,10mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,mianserin hydrochloride,mianserin 10mg tablets,oral,7
+47363,20mg,6,20mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,mianserin hydrochloride,mianserin 20mg tablet (berk pharmaceuticals ltd),oral,7
+4329,20mg,,,,,tablet,unknown,mianserin hydrochloride,mianserin 20mg tablets,oral,7
+6255,30mg,58005,30mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,mianserin hydrochloride,mianserin 30mg tablets,oral,7
+12368,10mg,4212,10mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,mianserin hydrochloride,norval 10mg tablet (bencard),oral,7
+11956,20mg,1110,20mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,mianserin hydrochloride,norval 20mg tablet (bencard),oral,7
+12192,30mg,5080,30mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,mianserin hydrochloride,norval 30mg tablet (bencard),oral,7
+6421,15mg,276679,15mg,Oral,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,mirtazapine 15mg orodispersible tablets,oral,7
+43253,15mg,6,15mg,Oral,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,mirtazapine 15mg orodispersible tablets (a a h pharmaceuticals ltd),oral,7
+64101,15mg,5,15mg,Oral,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,mirtazapine 15mg orodispersible tablets (accord healthcare ltd),oral,7
+43241,15mg,1,15mg,Oral,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,mirtazapine 15mg orodispersible tablets (aurobindo pharma ltd),oral,7
+66580,15mg,0,15mg,Oral,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,mirtazapine 15mg orodispersible tablets (bluefish pharmaceuticals ab),oral,7
+61856,15mg,0,15mg,Oral,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,mirtazapine 15mg orodispersible tablets (consilient health ltd),oral,7
+43248,15mg,1,15mg,Oral,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,mirtazapine 15mg orodispersible tablets (focus pharmaceuticals ltd),oral,7
+43246,15mg,2,15mg,Oral,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,mirtazapine 15mg orodispersible tablets (genus pharmaceuticals ltd),oral,7
+68680,15mg,0,15mg,Oral,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,mirtazapine 15mg orodispersible tablets (mawdsley-brooks & company ltd),oral,7
+55482,15mg,0,15mg,Oral,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,mirtazapine 15mg orodispersible tablets (mylan),oral,7
+58291,15mg,0,15mg,Oral,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,mirtazapine 15mg orodispersible tablets (pfizer ltd),oral,7
+77865,15mg,,,,,orodispersible tablet,other antidepressants,mirtazapine,mirtazapine 15mg orodispersible tablets (phoenix healthcare distribution ltd),oral,7
+65555,15mg,0,15mg,Oral,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,mirtazapine 15mg orodispersible tablets (sigma pharmaceuticals plc),oral,7
+43237,15mg,6,15mg,Oral,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,mirtazapine 15mg orodispersible tablets (teva uk ltd),oral,7
+48698,15mg,2119,,,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,mirtazapine 15mg orodispersible tablets sugar free,oral,7
+54012,15mg,0,,,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,mirtazapine 15mg orodispersible tablets sugar free (sandoz ltd),oral,7
+6795,15mg,1077268,15mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,mirtazapine,mirtazapine 15mg tablets,oral,7
+43239,15mg,42,15mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,mirtazapine,mirtazapine 15mg tablets (a a h pharmaceuticals ltd),oral,7
+53699,15mg,7,15mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,mirtazapine,mirtazapine 15mg tablets (actavis uk ltd),oral,7
+66183,15mg,0,15mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,mirtazapine,mirtazapine 15mg tablets (alliance healthcare (distribution) ltd),oral,7
+59953,15mg,137,15mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,mirtazapine,mirtazapine 15mg tablets (almus pharmaceuticals ltd),oral,7
+46668,15mg,15,15mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,mirtazapine,mirtazapine 15mg tablets (arrow generics ltd),oral,7
+66752,15mg,1,15mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,mirtazapine,mirtazapine 15mg tablets (aurobindo pharma ltd),oral,7
+82469,15mg,,,,,tablet,other antidepressants,mirtazapine,mirtazapine 15mg tablets (genesis pharmaceuticals ltd),oral,7
+43242,15mg,7,15mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,mirtazapine,mirtazapine 15mg tablets (genus pharmaceuticals ltd),oral,7
+54342,15mg,0,15mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,mirtazapine,mirtazapine 15mg tablets (medreich plc),oral,7
+82206,15mg,,,,,tablet,other antidepressants,mirtazapine,mirtazapine 15mg tablets (noumed life sciences ltd),oral,7
+54644,15mg,0,15mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,mirtazapine,mirtazapine 15mg tablets (pfizer ltd),oral,7
+82682,15mg,,,,,tablet,other antidepressants,mirtazapine,mirtazapine 15mg tablets (relonchem ltd),oral,7
+74557,15mg,,,,,tablet,other antidepressant drugs,mirtazapine,mirtazapine 15mg tablets (sigma pharmaceuticals plc),oral,7
+43257,15mg,20,15mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,mirtazapine,mirtazapine 15mg tablets (teva uk ltd),oral,7
+16154,15mg/1ml,6506,15mg/1ml,Oral,Other Antidepressant Drugs,oral solution,other antidepressant drugs,mirtazapine,mirtazapine 15mg/ml oral solution sugar free,oral,7
+53321,15mg/1ml,0,15mg/1ml,Oral,Other Antidepressant Drugs,oral solution,other antidepressant drugs,mirtazapine,mirtazapine 15mg/ml oral solution sugar free (a a h pharmaceuticals ltd),oral,7
+81914,15mg/1ml,,,,,oral solution,other antidepressants,mirtazapine,mirtazapine 15mg/ml oral solution sugar free (alliance healthcare (distribution) ltd),oral,7
+61547,15mg/1ml,0,15mg/1ml,Oral,Other Antidepressant Drugs,oral solution,other antidepressant drugs,mirtazapine,mirtazapine 15mg/ml oral solution sugar free (de pharmaceuticals),oral,7
+47966,15mg/1ml,1,15mg/1ml,Oral,Other Antidepressant Drugs,oral solution,other antidepressant drugs,mirtazapine,mirtazapine 15mg/ml oral solution sugar free (rosemont pharmaceuticals ltd),oral,7
+68544,2mg,1,2mg,Oral,Other Antidepressant Drugs,capsule,other antidepressant drugs,mirtazapine,mirtazapine 2mg capsules,oral,7
+6488,30mg,207633,30mg,Oral,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,mirtazapine 30mg orodispersible tablets,oral,7
+43250,30mg,6,30mg,Oral,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,mirtazapine 30mg orodispersible tablets (a a h pharmaceuticals ltd),oral,7
+53648,30mg,0,30mg,Oral,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,mirtazapine 30mg orodispersible tablets (accord healthcare ltd),oral,7
+48185,30mg,,,,,orodispersible tablet,unknown,mirtazapine,mirtazapine 30mg orodispersible tablets (almus pharmaceuticals ltd),oral,7
+68052,30mg,0,30mg,Oral,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,mirtazapine 30mg orodispersible tablets (almus pharmaceuticals ltd),oral,7
+69420,30mg,,,,,orodispersible tablet,other antidepressant drugs,mirtazapine,mirtazapine 30mg orodispersible tablets (aurobindo pharma ltd),oral,7
+76187,30mg,,,,,orodispersible tablet,other antidepressant drugs,mirtazapine,mirtazapine 30mg orodispersible tablets (mylan),oral,7
+59694,30mg,0,30mg,Oral,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,mirtazapine 30mg orodispersible tablets (phoenix healthcare distribution ltd),oral,7
+80953,30mg,,,,,tablet,other antidepressants,mirtazapine,mirtazapine 30mg tablet (kent pharmaceuticals ltd),oral,7
+742,30mg,1744059,30mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,mirtazapine,mirtazapine 30mg tablets,oral,7
+47945,30mg,1,30mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,mirtazapine,mirtazapine 30mg tablets (a a h pharmaceuticals ltd),oral,7
+40160,30mg,99,30mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,mirtazapine,mirtazapine 30mg tablets (actavis uk ltd),oral,7
+54792,30mg,0,30mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,mirtazapine,mirtazapine 30mg tablets (alliance healthcare (distribution) ltd),oral,7
+69005,30mg,,,,,tablet,other antidepressant drugs,mirtazapine,mirtazapine 30mg tablets (almus pharmaceuticals ltd),oral,7
+77488,30mg,,,,,tablet,other antidepressants,mirtazapine,mirtazapine 30mg tablets (arrow generics ltd),oral,7
+78654,30mg,,,,,tablet,other antidepressants,mirtazapine,mirtazapine 30mg tablets (aurobindo pharma ltd),oral,7
+60538,30mg,0,30mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,mirtazapine,mirtazapine 30mg tablets (de pharmaceuticals),oral,7
+82070,30mg,,,,,tablet,other antidepressants,mirtazapine,mirtazapine 30mg tablets (ennogen healthcare ltd),oral,7
+82326,30mg,,,,,tablet,other antidepressants,mirtazapine,mirtazapine 30mg tablets (medreich plc),oral,7
+56209,30mg,0,30mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,mirtazapine,mirtazapine 30mg tablets (phoenix healthcare distribution ltd),oral,7
+68933,30mg,,,,,tablet,other antidepressant drugs,mirtazapine,mirtazapine 30mg tablets (pliva pharma ltd),oral,7
+71543,30mg,,,,,tablet,other antidepressant drugs,mirtazapine,mirtazapine 30mg tablets (sigma pharmaceuticals plc),oral,7
+63403,30mg,9,30mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,mirtazapine,mirtazapine 30mg tablets (teva uk ltd),oral,7
+6481,45mg,260303,45mg,Oral,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,mirtazapine 45mg orodispersible tablets,oral,7
+43235,45mg,18,45mg,Oral,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,mirtazapine 45mg orodispersible tablets (a a h pharmaceuticals ltd),oral,7
+43236,45mg,52,45mg,Oral,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,mirtazapine 45mg orodispersible tablets (accord healthcare ltd),oral,7
+43256,45mg,1,45mg,Oral,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,mirtazapine 45mg orodispersible tablets (focus pharmaceuticals ltd),oral,7
+43247,45mg,1,45mg,Oral,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,mirtazapine 45mg orodispersible tablets (genus pharmaceuticals ltd),oral,7
+64139,45mg,7,45mg,Oral,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,mirtazapine 45mg orodispersible tablets (mylan),oral,7
+43234,45mg,6,45mg,Oral,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,mirtazapine 45mg orodispersible tablets (teva uk ltd),oral,7
+49820,45mg,1388,,,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,mirtazapine 45mg orodispersible tablets sugar free,oral,7
+6854,45mg,848301,45mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,mirtazapine,mirtazapine 45mg tablets,oral,7
+33337,45mg,140,45mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,mirtazapine,mirtazapine 45mg tablets (a a h pharmaceuticals ltd),oral,7
+58625,45mg,0,45mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,mirtazapine,mirtazapine 45mg tablets (actavis uk ltd),oral,7
+59954,45mg,1,45mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,mirtazapine,mirtazapine 45mg tablets (almus pharmaceuticals ltd),oral,7
+64223,45mg,1,45mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,mirtazapine,mirtazapine 45mg tablets (teva uk ltd),oral,7
+82245,15mg/1ml,,,,,oral suspension,other antidepressants,mirtazapine,mirtazapine 75mg/5ml oral suspension,oral,7
+77377,30mg,,,,,tablet,other antidepressants,mirtazapine,zispin 30mg tablets (dowelhurst ltd),oral,7
+4726,30mg,38927,30mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,mirtazapine,zispin 30mg tablets (organon laboratories ltd),oral,7
+67272,30mg,58,30mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,mirtazapine,zispin 30mg tablets (waymade healthcare plc),oral,7
+60370,15mg,0,15mg,Oral,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,zispin soltab 15mg orodispersible tablets (mawdsley-brooks & company ltd),oral,7
+6846,15mg,14604,15mg,Oral,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,zispin soltab 15mg orodispersible tablets (merck sharp & dohme ltd),oral,7
+50892,15mg,0,15mg,Oral,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,zispin soltab 15mg orodispersible tablets (necessity supplies ltd),oral,7
+82520,15mg,,,,,orodispersible tablet,other antidepressants,mirtazapine,zispin soltab 15mg orodispersible tablets (waymade healthcare plc),oral,7
+80893,30mg,,,,,orodispersible tablet,other antidepressants,mirtazapine,zispin soltab 30mg orodispersible tablets (mawdsley-brooks & company ltd),oral,7
+10083,30mg,18452,30mg,Oral,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,zispin soltab 30mg orodispersible tablets (merck sharp & dohme ltd),oral,7
+53543,30mg,1,30mg,Oral,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,zispin soltab 30mg orodispersible tablets (necessity supplies ltd),oral,7
+82510,30mg,,,,,orodispersible tablet,other antidepressants,mirtazapine,zispin soltab 30mg orodispersible tablets (waymade healthcare plc),oral,7
+15268,45mg,11025,45mg,Oral,Other Antidepressant Drugs,orodispersible tablet,other antidepressant drugs,mirtazapine,zispin soltab 45mg orodispersible tablets (merck sharp & dohme ltd),oral,7
+9206,150mg,7298,150mg,Oral,Reversible Monoamine-oxidase Inhibitors,tablet,reversible monoamine-oxidase inhibitors,moclobemide,manerix 150mg tablets (meda pharmaceuticals ltd),oral,5
+5832,300mg,801,300mg,Oral,Reversible Monoamine-oxidase Inhibitors,tablet,reversible monoamine-oxidase inhibitors,moclobemide,manerix 300mg tablets (meda pharmaceuticals ltd),oral,5
+2883,150mg,44198,150mg,Oral,Reversible Monoamine-oxidase Inhibitors,tablet,reversible monoamine-oxidase inhibitors,moclobemide,moclobemide 150mg tablets,oral,5
+67305,150mg,66,150mg,Oral,Reversible Monoamine-oxidase Inhibitors,tablet,reversible monoamine-oxidase inhibitors,moclobemide,moclobemide 150mg tablets (sigma pharmaceuticals plc),oral,5
+41747,150mg,29,150mg,Oral,Reversible Monoamine-oxidase Inhibitors,tablet,reversible monoamine-oxidase inhibitors,moclobemide,moclobemide 150mg tablets (teva uk ltd),oral,5
+5187,300mg,18741,300mg,Oral,Reversible Monoamine-oxidase Inhibitors,tablet,reversible monoamine-oxidase inhibitors,moclobemide,moclobemide 300mg tablets,oral,5
+3391,100mg,11549,100mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,nefazodone hydrochloride,dutonin 100mg tablets (bristol-myers squibb pharmaceuticals ltd),oral,7
+4297,200mg,11393,200mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,nefazodone hydrochloride,dutonin 200mg tablets (bristol-myers squibb pharmaceuticals ltd),oral,7
+63827,50mg,,,,,tablet,unknown,nefazodone hydrochloride,dutonin 50mg tablets (bristol-myers squibb pharmaceuticals ltd),oral,7
+4554,100mg,27530,100mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,nefazodone hydrochloride,nefazodone 100mg tablets,oral,7
+4011,200mg,27771,200mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,nefazodone hydrochloride,nefazodone 200mg tablets,oral,7
+67757,50mg,,,,,tablet,unknown,nefazodone hydrochloride,nefazodone 50mg tablets,oral,7
+9534,,1410,,Oral,Other Antidepressant Drugs,starter pack,other antidepressant drugs,nefazodone hydrochloride,nefazodone starter pack,oral,7
+7677,10mg,1537,10mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,nortriptyline hydrochloride,allegron 10mg tablets (king pharmaceuticals ltd),oral,3
+8640,25mg,3997,25mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,nortriptyline hydrochloride,allegron 25mg tablets (king pharmaceuticals ltd),oral,3
+83498,25mg,,,,,tablet,tricyclic and related antidepressants,nortriptyline hydrochloride,allegron 25mg tablets (lexon (uk) ltd),oral,3
+17183,10mg,936,10mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,capsule,tricyclic and related antidepressant drugs/neuropathic pain,nortriptyline hydrochloride,aventyl 10mg capsule (eli lilly and company ltd),oral,3
+12549,10mg/5ml,15,10mg/5ml,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,liquid,tricyclic and related antidepressant drugs/neuropathic pain,nortriptyline hydrochloride,aventyl 10mg/5ml liquid (eli lilly and company ltd),oral,3
+12353,25mg,1729,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,capsule,tricyclic and related antidepressant drugs/neuropathic pain,nortriptyline hydrochloride,aventyl 25mg capsule (eli lilly and company ltd),oral,3
+4118,10mg,2651,10mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,capsule,tricyclic and related antidepressant drugs/neuropathic pain,nortriptyline hydrochloride,nortriptyline 10mg capsule,oral,3
+3183,10mg,266015,10mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs/nocturnal enuresis,nortriptyline hydrochloride,nortriptyline 10mg tablets,oral,3
+65237,10mg,1,10mg,Oral,Tricyclic And Related Antidepressant Drugs/Nocturnal Enuresis,tablet,tricyclic and related antidepressant drugs/nocturnal enuresis,nortriptyline hydrochloride,nortriptyline 10mg tablets (a a h pharmaceuticals ltd),oral,3
+80352,10mg,,,,,tablet,tricyclic and related antidepressants/nocturnal enuresis,nortriptyline hydrochloride,nortriptyline 10mg tablets (accord healthcare ltd),oral,3
+55970,10mg,1,10mg,Oral,Tricyclic And Related Antidepressant Drugs/Nocturnal Enuresis,tablet,tricyclic and related antidepressant drugs/nocturnal enuresis,nortriptyline hydrochloride,nortriptyline 10mg tablets (king pharmaceuticals ltd),oral,3
+39145,10mg/5ml,123,10mg/5ml,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,liquid,tricyclic and related antidepressant drugs/neuropathic pain,nortriptyline hydrochloride,nortriptyline 10mg/5ml liquid,oral,3
+72626,2mg/1ml,,,,,oral solution,tricyclic and related antidepressant drugs/nocturnal enuresis,nortriptyline hydrochloride,nortriptyline 10mg/5ml oral solution,oral,3
+80546,2mg/1ml,,,,,oral solution,tricyclic and related antidepressants/nocturnal enuresis,nortriptyline hydrochloride,nortriptyline 10mg/5ml oral solution sugar free,oral,3
+68228,2mg/1ml,2,,,Tricyclic And Related Antidepressant Drugs/Nocturnal Enuresis,oral suspension,tricyclic and related antidepressant drugs/nocturnal enuresis,nortriptyline hydrochloride,nortriptyline 10mg/5ml oral suspension,oral,3
+7678,25mg,3662,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,capsule,tricyclic and related antidepressant drugs/neuropathic pain,nortriptyline hydrochloride,nortriptyline 25mg capsule,oral,3
+3903,25mg,150304,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Nocturnal Enuresis,tablet,tricyclic and related antidepressant drugs/nocturnal enuresis,nortriptyline hydrochloride,nortriptyline 25mg tablets,oral,3
+48216,25mg,0,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Nocturnal Enuresis,tablet,tricyclic and related antidepressant drugs/nocturnal enuresis,nortriptyline hydrochloride,nortriptyline 25mg tablets (a a h pharmaceuticals ltd),oral,3
+63276,25mg,0,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Nocturnal Enuresis,tablet,tricyclic and related antidepressant drugs/nocturnal enuresis,nortriptyline hydrochloride,nortriptyline 25mg tablets (alliance healthcare (distribution) ltd),oral,3
+66201,25mg,0,25mg,Oral,Tricyclic And Related Antidepressant Drugs/Nocturnal Enuresis,tablet,tricyclic and related antidepressant drugs/nocturnal enuresis,nortriptyline hydrochloride,nortriptyline 25mg tablets (sigma pharmaceuticals plc),oral,3
+78224,25mg,,,,,tablet,tricyclic and related antidepressants/nocturnal enuresis,nortriptyline hydrochloride,nortriptyline 25mg tablets (waymade healthcare plc),oral,3
+83536,5mg/1ml,,,,,oral solution,tricyclic and related antidepressants/nocturnal enuresis,nortriptyline hydrochloride,nortriptyline 25mg/5ml oral solution sugar free,oral,3
+69317,50mg,,,,,tablet,tricyclic and related antidepressant drugs/nocturnal enuresis,nortriptyline hydrochloride,nortriptyline 50mg tablets,oral,3
+35021,10mg,99322,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,paroxetine hydrochloride,paroxetine 10mg tablets,oral,1
+76946,10mg,,,,,tablet,selective serotonin re-uptake inhibitors,paroxetine hydrochloride,paroxetine 10mg tablets (a a h pharmaceuticals ltd),oral,1
+59288,10mg,26,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,paroxetine hydrochloride,paroxetine 10mg tablets (actavis uk ltd),oral,1
+81854,10mg,,,,,tablet,selective serotonin re-uptake inhibitors (ssri),paroxetine hydrochloride,paroxetine 10mg tablets (teva uk ltd),oral,1
+67259,2mg/1ml,110,,,Selective Serotonin Re-uptake Inhibitors,oral solution,selective serotonin re-uptake inhibitors,paroxetine hydrochloride,paroxetine 10mg/5ml oral solution,oral,1
+527,2mg/1ml,63925,2mg/1ml,Oral,Selective Serotonin Re-uptake Inhibitors,oral suspension,selective serotonin re-uptake inhibitors,paroxetine hydrochloride,paroxetine 10mg/5ml oral suspension sugar free,oral,1
+50,20mg,3380436,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,paroxetine hydrochloride,paroxetine 20mg tablets,oral,1
+34419,20mg,262,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,paroxetine hydrochloride,paroxetine 20mg tablets (a a h pharmaceuticals ltd),oral,1
+32899,20mg,150,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,paroxetine hydrochloride,paroxetine 20mg tablets (actavis uk ltd),oral,1
+73668,20mg,,,,,tablet,selective serotonin re-uptake inhibitors,paroxetine hydrochloride,paroxetine 20mg tablets (almus pharmaceuticals ltd),oral,1
+40892,20mg,2,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,paroxetine hydrochloride,paroxetine 20mg tablets (genus pharmaceuticals ltd),oral,1
+34351,20mg,615,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,paroxetine hydrochloride,paroxetine 20mg tablets (ivax pharmaceuticals uk ltd),oral,1
+55023,20mg,0,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,paroxetine hydrochloride,paroxetine 20mg tablets (medreich plc),oral,1
+33978,20mg,884,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,paroxetine hydrochloride,paroxetine 20mg tablets (mylan),oral,1
+79383,30mg,,,,,tablet,selective serotonin re-uptake inhibitors (ssri),paroxetine hydrochloride,paroxetine 30mg tablet (neo laboratories ltd),,1
+79381,30mg,,,,,tablet,selective serotonin re-uptake inhibitors (ssri),paroxetine hydrochloride,paroxetine 30mg tablet (sovereign medical ltd),,1
+1397,30mg,802539,30mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,paroxetine hydrochloride,paroxetine 30mg tablets,oral,1
+34587,30mg,9,30mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,paroxetine hydrochloride,paroxetine 30mg tablets (a a h pharmaceuticals ltd),oral,1
+40165,30mg,21,30mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,paroxetine hydrochloride,paroxetine 30mg tablets (actavis uk ltd),oral,1
+64785,30mg,0,30mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,paroxetine hydrochloride,paroxetine 30mg tablets (alliance healthcare (distribution) ltd),oral,1
+83463,30mg,,,,,tablet,selective serotonin re-uptake inhibitors (ssri),paroxetine hydrochloride,paroxetine 30mg tablets (almus pharmaceuticals ltd),oral,1
+78843,6mg/1ml,,,,,oral solution,selective serotonin re-uptake inhibitors (ssri),paroxetine hydrochloride,paroxetine 30mg/5ml oral solution,oral,1
+68325,40mg,33,40mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,paroxetine hydrochloride,paroxetine 40mg tablets,oral,1
+75054,,,,,,,selective serotonin re-uptake inhibitors,paroxetine hydrochloride,paroxetine oral liquid,,1
+35112,10mg,3650,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,paroxetine hydrochloride,seroxat 10mg tablets (glaxosmithkline uk ltd),oral,1
+66292,10mg,0,10mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,paroxetine hydrochloride,seroxat 10mg tablets (waymade healthcare plc),oral,1
+74588,20mg,,,,,tablet,selective serotonin re-uptake inhibitors,paroxetine hydrochloride,seroxat 20mg tablets (de pharmaceuticals),oral,1
+841,20mg,342487,20mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,paroxetine hydrochloride,seroxat 20mg tablets (glaxosmithkline uk ltd),oral,1
+73589,20mg,,,,,tablet,selective serotonin re-uptake inhibitors,paroxetine hydrochloride,seroxat 20mg tablets (lexon (uk) ltd),oral,1
+77650,20mg,,,,,tablet,selective serotonin re-uptake inhibitors (ssri),paroxetine hydrochloride,seroxat 20mg tablets (mawdsley-brooks & company ltd),oral,1
+82506,20mg,,,,,tablet,selective serotonin re-uptake inhibitors (ssri),paroxetine hydrochloride,seroxat 20mg tablets (waymade healthcare plc),oral,1
+3601,2mg/1ml,6086,2mg/1ml,Oral,Selective Serotonin Re-uptake Inhibitors,oral suspension,selective serotonin re-uptake inhibitors,paroxetine hydrochloride,seroxat 20mg/10ml liquid (glaxosmithkline uk ltd),oral,1
+1575,30mg,65161,30mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,paroxetine hydrochloride,seroxat 30mg tablets (glaxosmithkline uk ltd),oral,1
+55537,30mg,0,30mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,paroxetine hydrochloride,seroxat 30mg tablets (lexon (uk) ltd),oral,1
+76772,30mg,,,,,tablet,selective serotonin re-uptake inhibitors,paroxetine hydrochloride,seroxat 30mg tablets (mawdsley-brooks & company ltd),oral,1
+82578,30mg,,,,,tablet,selective serotonin re-uptake inhibitors (ssri),paroxetine hydrochloride,seroxat 30mg tablets (waymade healthcare plc),oral,1
+3349,15mg,25065,15mg,Oral,Monoamine-oxidase Inhibitors,tablet,monoamine-oxidase inhibitors,phenelzine sulfate,nardil 15mg tablets (kyowa kirin ltd),oral,4
+82839,15mg,,,,,capsule,monoamine-oxidase inhibitors (maoi),phenelzine sulfate,phenelzine 15mg capsules,oral,4
+4321,15mg,59817,15mg,Oral,Monoamine-oxidase Inhibitors,tablet,monoamine-oxidase inhibitors,phenelzine sulfate,phenelzine 15mg tablets,oral,4
+7755,,1648,,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,tablet,tricyclic and related antidepressant drugs/neuropathic pain,protriptyline hydrochloride,concordin 10 tablet (merck sharp & dohme ltd),oral,3
+7816,,1042,,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,tablet,tricyclic and related antidepressant drugs/neuropathic pain,protriptyline hydrochloride,concordin 5 tablet (merck sharp & dohme ltd),oral,3
+11187,10mg,397,10mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,tablets,tricyclic and related antidepressant drugs/neuropathic pain,protriptyline hydrochloride,protriptyline 10mg tablet,oral,3
+7756,5mg,4041,5mg,Oral,Tricyclic And Related Antidepressant Drugs/Neuropathic Pain,tablets,tricyclic and related antidepressant drugs/neuropathic pain,protriptyline hydrochloride,protriptyline 5mg tablet,oral,3
+60929,5mg,124,5mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,protriptyline hydrochloride,protriptyline 5mg tablets,oral,3
+15163,4mg,7569,4mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,reboxetine mesilate,edronax 4mg tablets (pfizer ltd),oral,2
+2356,4mg,101536,4mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,reboxetine mesilate,reboxetine 4mg tablets,oral,2
+65771,,1,,Oral,Selective Serotonin Re-uptake Inhibitors,oral suspension,selective serotonin re-uptake inhibitors,sertraline,sertraline 200mg/5ml oral suspension (special order),oral,1
+82495,100mg,,,,,tablet,selective serotonin re-uptake inhibitors (ssri),sertraline hydrochloride,lustral 100mg tablets (dowelhurst ltd),oral,1
+82384,100mg,,,,,tablet,selective serotonin re-uptake inhibitors (ssri),sertraline hydrochloride,lustral 100mg tablets (lexon (uk) ltd),oral,1
+4352,100mg,42458,100mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,sertraline hydrochloride,lustral 100mg tablets (pfizer ltd),oral,1
+77385,50mg,,,,,tablet,selective serotonin re-uptake inhibitors (ssri),sertraline hydrochloride,lustral 50mg tablets (de pharmaceuticals),oral,1
+82497,50mg,,,,,tablet,selective serotonin re-uptake inhibitors (ssri),sertraline hydrochloride,lustral 50mg tablets (dowelhurst ltd),oral,1
+1612,50mg,148104,50mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,sertraline hydrochloride,lustral 50mg tablets (pfizer ltd),oral,1
+727,100mg,2320502,100mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 100mg tablets,oral,1
+55146,100mg,24,100mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 100mg tablets (a a h pharmaceuticals ltd),oral,1
+62950,100mg,6,100mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 100mg tablets (accord healthcare ltd),oral,1
+61503,100mg,0,100mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 100mg tablets (actavis uk ltd),oral,1
+59600,100mg,1,100mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 100mg tablets (almus pharmaceuticals ltd),oral,1
+62692,100mg,13,100mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 100mg tablets (bristol laboratories ltd),oral,1
+69726,100mg,,,,,tablet,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 100mg tablets (crescent pharma ltd),oral,1
+67928,100mg,4,100mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 100mg tablets (milpharm ltd),oral,1
+66560,100mg,0,100mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 100mg tablets (mylan),oral,1
+54933,100mg,0,100mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 100mg tablets (pliva pharma ltd),oral,1
+66413,100mg,1,100mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 100mg tablets (ranbaxy (uk) ltd),oral,1
+68756,100mg,1,100mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 100mg tablets (sandoz ltd),oral,1
+44944,100mg,71,100mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 100mg tablets (teva uk ltd),oral,1
+73962,100mg,,,,,tablet,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 100mg tablets (wockhardt uk ltd),oral,1
+49519,20mg/1ml,31,20mg/1ml,Oral,Selective Serotonin Re-uptake Inhibitors,oral suspension,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 100mg/5ml oral suspension,oral,1
+77607,2mg/1ml,,,,,oral suspension,selective serotonin re-uptake inhibitors (ssri),sertraline hydrochloride,sertraline 10mg/5ml oral suspension,oral,1
+78278,12.5mg,,,,,tablet,selective serotonin re-uptake inhibitors (ssri),sertraline hydrochloride,sertraline 12.5mg tablets,oral,1
+62819,2.5mg/1ml,3,2.5mg/1ml,Oral,Selective Serotonin Re-uptake Inhibitors,oral suspension,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 12.5mg/5ml oral suspension,oral,1
+54826,30mg/1ml,14,30mg/1ml,Oral,Selective Serotonin Re-uptake Inhibitors,oral suspension,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 150mg/5ml oral suspension,oral,1
+78626,3mg/1ml,,,,,oral suspension,selective serotonin re-uptake inhibitors (ssri),sertraline hydrochloride,sertraline 15mg/5ml oral suspension,oral,1
+73759,4mg/1ml,,,,,oral suspension,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 20mg/5ml oral suspension,oral,1
+82884,25mg,,,,,tablet,selective serotonin re-uptake inhibitors (ssri),sertraline hydrochloride,sertraline 25mg tablets,oral,1
+83101,25mg,,,,,tablet,selective serotonin re-uptake inhibitors (ssri),sertraline hydrochloride,sertraline 25mg tablets (zentiva),oral,1
+82195,5mg/1ml,,,,,oral solution,selective serotonin re-uptake inhibitors (ssri),sertraline hydrochloride,sertraline 25mg/5ml oral solution,oral,1
+54081,5mg/1ml,20,,,Selective Serotonin Re-uptake Inhibitors,oral suspension,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 25mg/5ml oral suspension,oral,1
+83668,5mg/1ml,,,,,oral suspension,selective serotonin re-uptake inhibitors (ssri),sertraline hydrochloride,sertraline 25mg/5ml oral suspension (drug tariff special order),oral,1
+488,50mg,3581340,50mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 50mg tablets,oral,1
+32401,50mg,30,50mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 50mg tablets (a a h pharmaceuticals ltd),oral,1
+58723,50mg,6,50mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 50mg tablets (accord healthcare ltd),oral,1
+42387,50mg,43,50mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 50mg tablets (actavis uk ltd),oral,1
+45915,50mg,2,50mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 50mg tablets (almus pharmaceuticals ltd),oral,1
+62693,50mg,9,50mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 50mg tablets (bristol laboratories ltd),oral,1
+69725,50mg,,,,,tablet,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 50mg tablets (crescent pharma ltd),oral,1
+63481,50mg,3,50mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 50mg tablets (milpharm ltd),oral,1
+58664,50mg,7,50mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 50mg tablets (mylan),oral,1
+67730,50mg,0,50mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 50mg tablets (ranbaxy (uk) ltd),oral,1
+81991,50mg,,,,,tablet,selective serotonin re-uptake inhibitors (ssri),sertraline hydrochloride,sertraline 50mg tablets (relonchem ltd),oral,1
+69898,50mg,,,,,tablet,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 50mg tablets (sandoz ltd),oral,1
+55488,50mg,1,50mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 50mg tablets (teva uk ltd),oral,1
+75952,50mg,,,,,tablet,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 50mg tablets (tillomed laboratories ltd),oral,1
+62927,50mg,0,50mg,Oral,Selective Serotonin Re-uptake Inhibitors,tablet,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 50mg tablets (wockhardt uk ltd),oral,1
+75405,10mg/1ml,,,,,oral solution,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 50mg/5ml oral solution,oral,1
+7328,10mg/1ml,3386,10mg/1ml,Oral,Selective Serotonin Re-uptake Inhibitors,oral suspension,selective serotonin re-uptake inhibitors,sertraline hydrochloride,sertraline 50mg/5ml oral suspension,oral,1
+77538,10mg/1ml,,,,,oral suspension,selective serotonin re-uptake inhibitors (ssri),sertraline hydrochloride,sertraline 50mg/5ml oral suspension (drug tariff special order),oral,1
+77707,15mg/1ml,,,,,oral suspension,selective serotonin re-uptake inhibitors (ssri),sertraline hydrochloride,sertraline 75mg/5ml oral suspension,oral,1
+10787,10mg,10149,10mg,Oral,Monoamine-oxidase Inhibitors,tablet,monoamine-oxidase inhibitors,tranylcypromine sulfate,parnate 10mg tablet (goldshield pharmaceuticals ltd),oral,4
+3783,10mg,26963,10mg,Oral,Monoamine-oxidase Inhibitors,tablet,monoamine-oxidase inhibitors,tranylcypromine sulfate,tranylcypromine 10mg tablets,oral,4
+41654,10mg,4,10mg,Oral,Monoamine-oxidase Inhibitors,tablet,monoamine-oxidase inhibitors,tranylcypromine sulfate,tranylcypromine 10mg tablets (amco),oral,4
+4194,100mg,15427,100mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,trazodone hydrochloride,molipaxin 100mg capsules (zentiva),oral,7
+4003,150mg,21289,150mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,trazodone hydrochloride,molipaxin 150mg tablets (zentiva),oral,7
+4874,50mg,33894,50mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,trazodone hydrochloride,molipaxin 50mg capsules (zentiva),oral,7
+8174,10mg/1ml,2261,10mg/1ml,Oral,Tricyclic And Related Antidepressant Drugs,oral solution,tricyclic and related antidepressant drugs,trazodone hydrochloride,molipaxin 50mg/5ml oral liquid (sanofi),oral,7
+13621,150mg,,,,,modified-release tablet,unknown,trazodone hydrochloride,molipaxin cr 150mg tablets (aventis pharma),oral,7
+1730,100mg,431794,100mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,trazodone hydrochloride,trazodone 100mg capsules,oral,7
+34580,100mg,127,100mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,trazodone hydrochloride,trazodone 100mg capsules (a a h pharmaceuticals ltd),oral,7
+73639,100mg,,,,,capsule,tricyclic and related antidepressant drugs,trazodone hydrochloride,trazodone 100mg capsules (actavis uk ltd),oral,7
+19181,100mg,113,100mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,trazodone hydrochloride,trazodone 100mg capsules (mylan),oral,7
+41709,100mg,31,100mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,trazodone hydrochloride,trazodone 100mg capsules (teva uk ltd),oral,7
+41710,100mg,34,100mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,trazodone hydrochloride,trazodone 100mg capsules (zentiva),oral,7
+65152,20mg/1ml,3,20mg/1ml,Oral,Tricyclic And Related Antidepressant Drugs,oral solution,tricyclic and related antidepressant drugs,trazodone hydrochloride,trazodone 100mg/5ml oral solution,oral,7
+72291,20mg/1ml,,,,,oral solution,tricyclic and related antidepressant drugs,trazodone hydrochloride,trazodone 100mg/5ml oral solution sugar free,oral,7
+66749,2mg/1ml,1,,,Tricyclic And Related Antidepressant Drugs,oral solution,tricyclic and related antidepressant drugs,trazodone hydrochloride,trazodone 10mg/5ml oral solution,oral,7
+12710,150mg,,,,,modified-release tablet,unknown,trazodone hydrochloride,trazodone 150mg modified-release tablets,oral,7
+4020,150mg,337117,150mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,trazodone hydrochloride,trazodone 150mg tablets,oral,7
+73419,150mg,,,,,tablet,tricyclic and related antidepressant drugs,trazodone hydrochloride,trazodone 150mg tablets (a a h pharmaceuticals ltd),oral,7
+77915,150mg,,,,,tablet,tricyclic and related antidepressants,trazodone hydrochloride,trazodone 150mg tablets (accord healthcare ltd),oral,7
+73636,150mg,,,,,tablet,tricyclic and related antidepressant drugs,trazodone hydrochloride,trazodone 150mg tablets (actavis uk ltd),oral,7
+76480,150mg,,,,,tablet,tricyclic and related antidepressant drugs,trazodone hydrochloride,trazodone 150mg tablets (alliance healthcare (distribution) ltd),oral,7
+30983,150mg,54,150mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,trazodone hydrochloride,trazodone 150mg tablets (mylan),oral,7
+29857,150mg,128,150mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,trazodone hydrochloride,trazodone 150mg tablets (teva uk ltd),oral,7
+34470,150mg,50,150mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,trazodone hydrochloride,trazodone 150mg tablets (zentiva),oral,7
+55137,30mg/1ml,2,30mg/1ml,Oral,Tricyclic And Related Antidepressant Drugs,oral suspension,tricyclic and related antidepressant drugs,trazodone hydrochloride,trazodone 150mg/5ml oral suspension,oral,7
+55138,50mg/1ml,1,,,Tricyclic And Related Antidepressant Drugs,oral solution,tricyclic and related antidepressant drugs,trazodone hydrochloride,trazodone 250mg/5ml oral solution,oral,7
+83013,5mg/1ml,,,,,oral solution,tricyclic and related antidepressants,trazodone hydrochloride,trazodone 25mg/5ml oral solution,oral,7
+57226,5mg/1ml,1,5mg/1ml,Oral,Tricyclic And Related Antidepressant Drugs,oral suspension,tricyclic and related antidepressant drugs,trazodone hydrochloride,trazodone 25mg/5ml oral suspension,oral,7
+3355,50mg,660384,50mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,trazodone hydrochloride,trazodone 50mg capsules,oral,7
+34003,50mg,874,50mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,trazodone hydrochloride,trazodone 50mg capsules (a a h pharmaceuticals ltd),oral,7
+71031,50mg,,,,,capsule,tricyclic and related antidepressant drugs,trazodone hydrochloride,trazodone 50mg capsules (actavis uk ltd),oral,7
+29339,50mg,45,50mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,trazodone hydrochloride,trazodone 50mg capsules (mylan),oral,7
+41609,50mg,36,50mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,trazodone hydrochloride,trazodone 50mg capsules (teva uk ltd),oral,7
+34421,50mg,37,50mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,trazodone hydrochloride,trazodone 50mg capsules (zentiva),oral,7
+61842,10mg/1ml,7,,,Tricyclic And Related Antidepressant Drugs,oral solution,tricyclic and related antidepressant drugs,trazodone hydrochloride,trazodone 50mg/5ml oral solution,oral,7
+6442,10mg/1ml,71278,10mg/1ml,Oral,Tricyclic And Related Antidepressant Drugs,oral solution,tricyclic and related antidepressant drugs,trazodone hydrochloride,trazodone 50mg/5ml oral solution sugar free,oral,7
+59931,10mg/1ml,0,10mg/1ml,Oral,Tricyclic And Related Antidepressant Drugs,oral solution,tricyclic and related antidepressant drugs,trazodone hydrochloride,trazodone 50mg/5ml oral solution sugar free (a a h pharmaceuticals ltd),oral,7
+70521,10mg/1ml,,,,,oral solution,tricyclic and related antidepressant drugs,trazodone hydrochloride,trazodone 50mg/5ml oral solution sugar free (amco),oral,7
+77474,10mg/1ml,,,,,oral solution,tricyclic and related antidepressants,trazodone hydrochloride,trazodone 50mg/5ml oral solution sugar free (zentiva),oral,7
+80399,10mg/1ml,,,,,oral suspension,tricyclic and related antidepressants,trazodone hydrochloride,trazodone 50mg/5ml oral suspension,oral,7
+61657,15mg/1ml,1,15mg/1ml,Oral,Tricyclic And Related Antidepressant Drugs,oral solution,tricyclic and related antidepressant drugs,trazodone hydrochloride,trazodone 75mg/5ml oral solution,oral,7
+69355,,,,,,oral solution,tricyclic and related antidepressant drugs,trazodone hydrochloride,trazodone oral solution,,7
+8928,10mg,11206,10mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,trimipramine maleate,surmontil 10mg tablets (sanofi),oral,3
+2532,25mg,65449,25mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,trimipramine maleate,surmontil 25mg tablets (sanofi),oral,3
+2531,50mg,65369,50mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,trimipramine maleate,surmontil 50mg capsules (sanofi),oral,3
+4310,10mg,40260,10mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,trimipramine maleate,trimipramine 10mg tablets,oral,3
+42228,10mg,14,10mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,trimipramine maleate,trimipramine 10mg tablets (a a h pharmaceuticals ltd),oral,3
+53808,10mg,0,10mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,trimipramine maleate,trimipramine 10mg tablets (phoenix healthcare distribution ltd),oral,3
+2039,25mg,129155,25mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,trimipramine maleate,trimipramine 25mg tablets,oral,3
+45226,25mg,11,25mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,trimipramine maleate,trimipramine 25mg tablets (a a h pharmaceuticals ltd),oral,3
+57978,25mg,0,25mg,Oral,Tricyclic And Related Antidepressant Drugs,tablet,tricyclic and related antidepressant drugs,trimipramine maleate,trimipramine 25mg tablets (waymade healthcare plc),oral,3
+66493,5mg/1ml,1,5mg/1ml,Oral,Tricyclic And Related Antidepressant Drugs,oral suspension,tricyclic and related antidepressant drugs,trimipramine maleate,trimipramine 25mg/5ml oral suspension,oral,3
+3196,50mg,144719,50mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,trimipramine maleate,trimipramine 50mg capsules,oral,3
+65445,50mg,2,50mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,trimipramine maleate,trimipramine 50mg capsules (a a h pharmaceuticals ltd),oral,3
+66919,50mg,0,50mg,Oral,Tricyclic And Related Antidepressant Drugs,capsule,tricyclic and related antidepressant drugs,trimipramine maleate,trimipramine 50mg capsules (waymade healthcare plc),oral,3
+65213,10mg/1ml,1,,,Tricyclic And Related Antidepressant Drugs,oral solution,tricyclic and related antidepressant drugs,trimipramine maleate,trimipramine 50mg/5ml oral solution,oral,3
+54747,500mg,224,,,Other Antidepressant Drugs,capsule,other antidepressant drugs,tryptophan,optimax 500mg capsules (intrapharm laboratories ltd),oral,7
+5611,500mg,1293,500mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,tryptophan,optimax 500mg tablets (intrapharm laboratories ltd),oral,7
+20504,500mg,116,500mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,tryptophan,optimax wv tablet (e. merck),oral,7
+12221,500mg,438,500mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,tryptophan,pacitron 500mg tablet (rorer pharmaceuticals ltd),oral,7
+54686,500mg,816,,,Other Antidepressant Drugs,capsule,other antidepressant drugs,tryptophan,tryptophan 500mg capsules,oral,7
+4422,500mg,14954,500mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,tryptophan,tryptophan 500mg tablets,oral,7
+52516,150mg,90,150mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,alventa xl 150mg capsules (consilient health ltd),oral,2
+52074,75mg,184,75mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,alventa xl 75mg capsules (consilient health ltd),oral,2
+71806,75mg,,,,,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,amphero xl 75mg capsules (mylan),oral,2
+61236,150mg,2,150mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,bonilux xl 150mg capsules (sandoz ltd),oral,2
+45664,150mg,121,150mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,depefex xl 150mg capsules (chiesi ltd),oral,2
+45959,75mg,202,75mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,depefex xl 75mg capsules (chiesi ltd),oral,2
+65738,37.5mg,0,37.5mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,venlafaxine hydrochloride,efexor 37.5mg tablets (sigma pharmaceuticals plc),oral,2
+67271,37.5mg,321,37.5mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,venlafaxine hydrochloride,efexor 37.5mg tablets (waymade healthcare plc),oral,2
+623,37.5mg,46301,37.5mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,venlafaxine hydrochloride,efexor 37.5mg tablets (wyeth pharmaceuticals),oral,2
+6274,50mg,,,,,tablet,unknown,venlafaxine hydrochloride,efexor 50mg tablets (wyeth pharmaceuticals),oral,2
+67288,75mg,203,75mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,venlafaxine hydrochloride,efexor 75mg tablets (dowelhurst ltd),oral,2
+77089,75mg,,,,,tablet,other antidepressant drugs,venlafaxine hydrochloride,efexor 75mg tablets (waymade healthcare plc),oral,2
+9182,75mg,23330,75mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,venlafaxine hydrochloride,efexor 75mg tablets (wyeth pharmaceuticals),oral,2
+81253,150mg,,,,,modified-release capsule,other antidepressants,venlafaxine hydrochloride,efexor xl 150mg capsules (lexon (uk) ltd),oral,2
+74010,150mg,,,,,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,efexor xl 150mg capsules (necessity supplies ltd),oral,2
+5710,150mg,73231,150mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,efexor xl 150mg capsules (pfizer ltd),oral,2
+51280,150mg,1,150mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,efexor xl 150mg capsules (waymade healthcare plc),oral,2
+65899,225mg,56,,,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,efexor xl 225mg capsules (pfizer ltd),oral,2
+74011,75mg,,,,,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,efexor xl 75mg capsules (dowelhurst ltd),oral,2
+75894,75mg,,,,,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,efexor xl 75mg capsules (lexon (uk) ltd),oral,2
+1474,75mg,129725,75mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,efexor xl 75mg capsules (pfizer ltd),oral,2
+76771,75mg,,,,,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,efexor xl 75mg capsules (waymade healthcare plc),oral,2
+81158,150mg,,,,,modified-release capsule,other antidepressants,venlafaxine hydrochloride,foraven xl 150mg capsules (forum products ltd),oral,2
+43968,75mg,44,75mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,foraven xl 75mg capsules (forum products ltd),oral,2
+80721,37.5mg,,,,,modified-release capsule,other antidepressants,venlafaxine hydrochloride,majoven xl 37.5mg capsules (bristol laboratories ltd),oral,2
+83355,75mg,,,,,modified-release capsule,other antidepressants,venlafaxine hydrochloride,majoven xl 75mg capsules (bristol laboratories ltd),oral,2
+43673,150mg,400,150mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,politid xl 150mg capsules (actavis uk ltd),oral,2
+41299,75mg,423,75mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,politid xl 75mg capsules (actavis uk ltd),oral,2
+48199,75mg,1,75mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,ranfaxine xl 75mg capsules (ranbaxy (uk) ltd),oral,2
+41314,150mg,158,150mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,rodomel xl 150mg capsules (teva uk ltd),oral,2
+41033,75mg,228,75mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,rodomel xl 75mg capsules (teva uk ltd),oral,2
+59753,150mg,22,150mg,Oral,Other Antidepressant Drugs,modified-release tablet,other antidepressant drugs,venlafaxine hydrochloride,sunveniz xl 150mg tablets (sun pharmaceuticals uk ltd),oral,2
+60843,75mg,50,75mg,Oral,Other Antidepressant Drugs,modified-release tablet,other antidepressant drugs,venlafaxine hydrochloride,sunveniz xl 75mg tablets (sun pharmaceuticals uk ltd),oral,2
+40817,150mg,1,150mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,tardcaps xl 150mg capsules (ixl pharma ltd),oral,2
+40815,75mg,2,75mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,tardcaps xl 75mg capsules (ixl pharma ltd),oral,2
+39809,150mg,3890,150mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,tifaxin xl 150mg capsules (genus pharmaceuticals ltd),oral,2
+39770,75mg,4068,75mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,tifaxin xl 75mg capsules (genus pharmaceuticals ltd),oral,2
+57751,150mg,96,150mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,tonpular xl 150mg capsules (wockhardt uk ltd),oral,2
+52716,75mg,87,75mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,tonpular xl 75mg capsules (wockhardt uk ltd),oral,2
+40514,150mg,23843,150mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,venaxx xl 150mg capsules (amco),oral,2
+40515,75mg,24182,75mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,venaxx xl 75mg capsules (amco),oral,2
+70420,150mg,,,,,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,vencarm xl 150mg capsules (aspire pharma ltd),oral,2
+70495,225mg,,,,,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,vencarm xl 225mg capsules (aspire pharma ltd),oral,2
+69819,37.5mg,,,,,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,vencarm xl 37.5mg capsules (aspire pharma ltd),oral,2
+70315,75mg,,,,,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,vencarm xl 75mg capsules (aspire pharma ltd),oral,2
+50081,150mg,5274,150mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,venlablue xl 150mg capsules (creo pharma ltd),oral,2
+59035,37.5mg,954,37.5mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,venlablue xl 37.5mg capsules (creo pharma ltd),oral,2
+49511,75mg,4445,75mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,venlablue xl 75mg capsules (creo pharma ltd),oral,2
+58726,150mg,108,150mg,Oral,Other Antidepressant Drugs,modified-release tablet,other antidepressant drugs,venlafaxine hydrochloride,venladex xl 150mg tablets (dexcel-pharma ltd),oral,2
+74516,225mg,,,,,modified-release tablet,other antidepressant drugs,venlafaxine hydrochloride,venladex xl 225mg tablets (dexcel-pharma ltd),oral,2
+58681,75mg,178,,,Other Antidepressant Drugs,modified-release tablet,other antidepressant drugs,venlafaxine hydrochloride,venladex xl 75mg tablets (dexcel-pharma ltd),oral,2
+55424,,0,,,Other Antidepressant Drugs,,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine,,2
+55501,150mg,8,150mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 150mg modified-release capsule (hillcross pharmaceuticals ltd),oral,2
+2654,150mg,896629,150mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 150mg modified-release capsules,oral,2
+70806,150mg,,,,,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 150mg modified-release capsules (de pharmaceuticals),oral,2
+60549,150mg,0,150mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 150mg modified-release capsules (kent pharmaceuticals ltd),oral,2
+71782,150mg,,,,,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 150mg modified-release capsules (mawdsley-brooks & company ltd),oral,2
+43334,150mg,14,150mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 150mg modified-release capsules (sandoz ltd),oral,2
+39360,150mg,265225,150mg,Oral,Other Antidepressant Drugs,modified-release tablet,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 150mg modified-release tablets,oral,2
+50934,30mg/1ml,1,30mg/1ml,Oral,Other Antidepressant Drugs,oral solution,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 150mg/5ml oral solution,oral,2
+62734,30mg/1ml,5,30mg/1ml,Oral,Other Antidepressant Drugs,oral suspension,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 150mg/5ml oral suspension,oral,2
+65666,225mg,1691,,,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 225mg modified-release capsules,oral,2
+40054,225mg,97801,225mg,Oral,Other Antidepressant Drugs,modified-release tablet,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 225mg modified-release tablets,oral,2
+80331,300mg,,,,,modified-release tablet,other antidepressants,venlafaxine hydrochloride,venlafaxine 300mg modified-release tablets,oral,2
+58837,37.5mg,10176,,,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 37.5mg modified-release capsules,oral,2
+45806,37.5mg,24346,37.5mg,Oral,Other Antidepressant Drugs,modified-release tablet,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 37.5mg modified-release tablets,oral,2
+301,37.5mg,642970,37.5mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 37.5mg tablets,oral,2
+56662,37.5mg,0,37.5mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 37.5mg tablets (a a h pharmaceuticals ltd),oral,2
+73667,37.5mg,,,,,tablet,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 37.5mg tablets (actavis uk ltd),oral,2
+68050,37.5mg,0,37.5mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 37.5mg tablets (alliance healthcare (distribution) ltd),oral,2
+75525,37.5mg,,,,,tablet,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 37.5mg tablets (almus pharmaceuticals ltd),oral,2
+59923,37.5mg,0,37.5mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 37.5mg tablets (bristol laboratories ltd),oral,2
+70353,37.5mg,,,,,tablet,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 37.5mg tablets (de pharmaceuticals),oral,2
+83069,37.5mg,,,,,tablet,other antidepressants,venlafaxine hydrochloride,venlafaxine 37.5mg tablets (dexcel-pharma ltd),oral,2
+51361,37.5mg,0,37.5mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 37.5mg tablets (ranbaxy (uk) ltd),oral,2
+60895,37.5mg,1,37.5mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 37.5mg tablets (teva uk ltd),oral,2
+51699,7.5mg/1ml,74,,,Other Antidepressant Drugs,oral solution,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 37.5mg/5ml oral solution,oral,2
+13237,7.5mg/1ml,1628,7.5mg/1ml,Oral,Other Antidepressant Drugs,oral suspension,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 37.5mg/5ml oral suspension,oral,2
+2617,50mg,,,,,tablet,unknown,venlafaxine hydrochloride,venlafaxine 50mg tablets,oral,2
+470,75mg,1311963,75mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 75mg modified-release capsules,oral,2
+71257,75mg,,,,,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 75mg modified-release capsules (de pharmaceuticals),oral,2
+59563,75mg,18,75mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 75mg modified-release capsules (kent pharmaceuticals ltd),oral,2
+68876,75mg,1,75mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 75mg modified-release capsules (mawdsley-brooks & company ltd),oral,2
+43203,75mg,2,75mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 75mg modified-release capsules (sandoz ltd),oral,2
+39359,75mg,245043,75mg,Oral,Other Antidepressant Drugs,modified-release tablet,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 75mg modified-release tablets,oral,2
+1222,75mg,540968,75mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 75mg tablets,oral,2
+60449,75mg,0,75mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 75mg tablets (a a h pharmaceuticals ltd),oral,2
+73658,75mg,,,,,tablet,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 75mg tablets (actavis uk ltd),oral,2
+66437,75mg,0,75mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 75mg tablets (de pharmaceuticals),oral,2
+56457,75mg,23,75mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 75mg tablets (teva uk ltd),oral,2
+63859,75mg,0,75mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 75mg tablets (waymade healthcare plc),oral,2
+53326,15mg/1ml,8,15mg/1ml,Oral,Other Antidepressant Drugs,oral solution,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 75mg/5ml oral solution,oral,2
+63268,15mg/1ml,38,,,Other Antidepressant Drugs,oral suspension,other antidepressant drugs,venlafaxine hydrochloride,venlafaxine 75mg/5ml oral suspension,oral,2
+40062,150mg,78544,150mg,Oral,Other Antidepressant Drugs,modified-release tablet,other antidepressant drugs,venlafaxine hydrochloride,venlalic xl 150mg tablets (ethypharm uk ltd),oral,2
+40407,225mg,27653,225mg,Oral,Other Antidepressant Drugs,modified-release tablet,other antidepressant drugs,venlafaxine hydrochloride,venlalic xl 225mg tablets (ethypharm uk ltd),oral,2
+80541,300mg,,,,,modified-release tablet,other antidepressants,venlafaxine hydrochloride,venlalic xl 300mg tablets (ethypharm uk ltd),oral,2
+45818,37.5mg,7196,37.5mg,Oral,Other Antidepressant Drugs,modified-release tablet,other antidepressant drugs,venlafaxine hydrochloride,venlalic xl 37.5mg tablets (ethypharm uk ltd),oral,2
+40059,75mg,74746,75mg,Oral,Other Antidepressant Drugs,modified-release tablet,other antidepressant drugs,venlafaxine hydrochloride,venlalic xl 75mg tablets (ethypharm uk ltd),oral,2
+44936,150mg,158,150mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,venlaneo xl 150mg capsules (kent pharmaceuticals ltd),oral,2
+44937,75mg,45,75mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,venlaneo xl 75mg capsules (kent pharmaceuticals ltd),oral,2
+71932,150mg,,,,,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,venlasov xl 150mg capsules (sovereign medical ltd),oral,2
+70931,75mg,,,,,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,venlasov xl 75mg capsules (sovereign medical ltd),oral,2
+40092,150mg,62579,150mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,vensir xl 150mg capsules (morningside healthcare ltd),oral,2
+67563,225mg,145,,,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,vensir xl 225mg capsules (morningside healthcare ltd),oral,2
+40277,75mg,60485,75mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,vensir xl 75mg capsules (morningside healthcare ltd),oral,2
+76727,150mg,,,,,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,venzip xl 150mg capsules (milpharm ltd),oral,2
+75263,75mg,,,,,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,venzip xl 75mg capsules (milpharm ltd),oral,2
+40517,150mg,17,150mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,vexarin xl 150mg capsules (mylan),oral,2
+42600,75mg,10,75mg,Oral,Other Antidepressant Drugs,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,vexarin xl 75mg capsules (mylan),oral,2
+40764,37.5mg,296,37.5mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,venlafaxine hydrochloride,viepax 37.5mg tablets (dexcel-pharma ltd),oral,2
+40917,75mg,313,75mg,Oral,Other Antidepressant Drugs,tablet,other antidepressant drugs,venlafaxine hydrochloride,viepax 75mg tablets (dexcel-pharma ltd),oral,2
+40049,150mg,7669,150mg,Oral,Other Antidepressant Drugs,modified-release tablet,other antidepressant drugs,venlafaxine hydrochloride,viepax xl 150mg tablets (dexcel-pharma ltd),oral,2
+78585,225mg,,,,,modified-release tablet,other antidepressants,venlafaxine hydrochloride,viepax xl 225mg tablets (dexcel-pharma ltd),oral,2
+40048,75mg,7328,75mg,Oral,Other Antidepressant Drugs,modified-release tablet,other antidepressant drugs,venlafaxine hydrochloride,viepax xl 75mg tablets (dexcel-pharma ltd),oral,2
+75848,150mg,,,,,modified-release capsule,other antidepressant drugs,venlafaxine hydrochloride,winfex xl 150mg capsules (zentiva),oral,2
+67874,10mg,1,,,Other Antidepressant Drugs,tablet,other antidepressant drugs,vortioxetine hydrobromide,brintellix 10mg tablets (lundbeck ltd),oral,6
+69991,20mg,,,,,tablet,other antidepressant drugs,vortioxetine hydrobromide,brintellix 20mg tablets (lundbeck ltd),oral,6
+69992,5mg,,,,,tablet,other antidepressant drugs,vortioxetine hydrobromide,brintellix 5mg tablets (lundbeck ltd),oral,6
+65483,10mg,143,,,Other Antidepressant Drugs,tablet,other antidepressant drugs,vortioxetine hydrobromide,vortioxetine 10mg tablets,oral,6
+66890,20mg,112,,,Other Antidepressant Drugs,tablet,other antidepressant drugs,vortioxetine hydrobromide,vortioxetine 20mg tablets,oral,6
+65482,5mg,72,,,Other Antidepressant Drugs,tablet,other antidepressant drugs,vortioxetine hydrobromide,vortioxetine 5mg tablets,oral,6
