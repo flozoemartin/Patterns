@@ -1,4 +1,4 @@
-# Patterns
+# Patterns of antidepressant prescribing
 Patterns of antidepressant prescribing in and around pregnancy: a descriptive analysis in the UK Clinical Practice Research Datalink
 
 Population derivation for this project can be found at https://github.com/flozoemartin/CPRD/
