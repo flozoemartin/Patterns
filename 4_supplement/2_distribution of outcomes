@@ -8,6 +8,10 @@
 
 ********************************************************************************************
 
+* Table S3 - Proportion of pregnancy outcomes in eligible sample.
+
+********************************************************************************************
+
 * Start logging
 
 	log using "$Logdir\4_supplement\2_distribution of outcomes", name(distribution_of_outcomes) replace
