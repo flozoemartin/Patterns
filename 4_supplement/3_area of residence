@@ -8,6 +8,10 @@
 
 ********************************************************************************************
 
+* Table S4 - Proportion of pregnancies from each CPRD region prescribed antidepressants during pregnancy.
+
+********************************************************************************************
+
 * Start logging
 
 	log using "$Logdir\4_supplement\3_area of residence", name(area_of_residence) replace
@@ -46,4 +50,4 @@ use "$Datadir\table_2_dataset.dta", clear
 	
 	erase "$Logdir\4_supplement\3_area of residence.smcl"
 
- ********************************************************************************************
+********************************************************************************************
